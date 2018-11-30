@@ -17,5 +17,23 @@
 ## 依時間排序
 
 
+2018-11-10 我知道你懂 hoisting，可是你了解到多深？
+2018-10-13 PWA 實戰經驗分享
+2018-09-14 AWS Lambda + GitHub API + Google Sheet = 自動化簽到系統
+2018-08-18 原來 CORS 沒有我想像中的簡單
+2018-06-23 深入探討 JavaScript 中的參數傳遞：call by value 還是 reference？
+2018-04-28 打造後台管理系統的好幫手：Ant Design
+2018-03-31 淺談 React Fiber 及其對 lifecycles 造成的影響
+2018-03-12 CSS keylogger：攻擊與防禦
+2018-02-03 利用 Github Classroom 加 Travis CI 打造改作業系統
+2018-01-05 React 性能優化大挑戰：一次理解 Immutable data 跟 shouldComponentUpdate
+
+2016-03-20 [Android] 人人都會的 apk 反編譯
+2015-09-03 [JavaScript] redux的middleware詳解
+2015-09-01 [JavaScript] redux 簡介
+2015-08-26 [JavaScript] Promise, generator, async與ES6
+2015-08-24 [JavaScript] ES6 Generator基礎
+
+
 
 ## 依分類排序
