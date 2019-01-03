@@ -16,6 +16,8 @@
 
 ## 依時間排序
 
+`2019-01-03` [從 Redux 作者 Dan Abramov 的文章談前端學習路線圖](https://github.com/aszx87410/blog/issues/37)  
+
 `2018-12-29`  [兩年過後，我能夠被稱為資深工程師了嗎？](https://github.com/aszx87410/blog/issues/36)  
 `2018-12-08`  [所有的函式都是閉包：談 JS 中的作用域與 Closure](https://github.com/aszx87410/blog/issues/35)  
 `2018-11-10`  [我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)  
@@ -103,6 +105,7 @@
 `2016-09-24`  [淺談二分搜尋法](https://github.com/aszx87410/blog/issues/11)  
 
 ### 其他
+`2019-01-03` [從 Redux 作者 Dan Abramov 的文章談前端學習路線圖](https://github.com/aszx87410/blog/issues/37)  
 `2018-12-29`  [兩年過後，我能夠被稱為資深工程師了嗎？](https://github.com/aszx87410/blog/issues/36)  
 `2018-09-14`  [AWS Lambda + GitHub API + Google Sheet = 自動化簽到系統](https://github.com/aszx87410/blog/issues/32)  
 `2018-02-03`  [利用 Github Classroom 加 Travis CI 打造改作業系統](https://github.com/aszx87410/blog/issues/27)  
