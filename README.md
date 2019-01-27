@@ -16,7 +16,8 @@
 
 ## 依時間排序
 
-`2019-01-03` [從 Redux 作者 Dan Abramov 的文章談前端學習路線圖](https://github.com/aszx87410/blog/issues/37)  
+`2019-01-27`  [邪魔歪道還是苦口良藥？Functional CSS 經驗分享](https://github.com/aszx87410/blog/issues/38)  
+`2019-01-03`  [從 Redux 作者 Dan Abramov 的文章談前端學習路線圖](https://github.com/aszx87410/blog/issues/37)  
 
 `2018-12-29`  [兩年過後，我能夠被稱為資深工程師了嗎？](https://github.com/aszx87410/blog/issues/36)  
 `2018-12-08`  [所有的函式都是閉包：談 JS 中的作用域與 Closure](https://github.com/aszx87410/blog/issues/35)  
@@ -71,6 +72,7 @@
 `2015-08-24`  [ES6 Generator基礎](https://github.com/aszx87410/blog/issues/1)  
 
 ### 前端相關
+`2019-01-27`  [邪魔歪道還是苦口良藥？Functional CSS 經驗分享](https://github.com/aszx87410/blog/issues/38)  
 `2018-08-18`  [原來 CORS 沒有我想像中的簡單](https://github.com/aszx87410/blog/issues/31)  
 `2018-03-12`  [CSS keylogger：攻擊與防禦](https://github.com/aszx87410/blog/issues/28)  
 `2017-12-08`  [希望是最淺顯易懂的 RxJS 教學](https://github.com/aszx87410/blog/issues/25)  
