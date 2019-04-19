@@ -16,6 +16,7 @@
 
 ## 依時間排序
 
+`2019-04-19`  [記一次幫開源專案 spectrum 修 bug 的經歷](https://github.com/aszx87410/blog/issues/41)  
 `2019-03-24`  [從 React 原始碼看 keyPress 與 keyDown 事件](https://github.com/aszx87410/blog/issues/40)  
 `2019-02-23`  [淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://github.com/aszx87410/blog/issues/39)  
 `2019-01-27`  [邪魔歪道還是苦口良藥？Functional CSS 經驗分享](https://github.com/aszx87410/blog/issues/38)  
