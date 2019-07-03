@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-07-02` [Medium 中文寫作者追蹤人數排名與不專業數據分析](https://medium.com/@hulitw/medium-analysis-40752b9efa03)  
 `2019-06-20` [從拉麵店的販賣機理解什麼是 API](https://medium.com/@hulitw/ramen-and-api-6238437dc544)  
 `2019-06-05` [Medium 出走潮：freeCodeCamp 與 Hacker Noon 相繼離開，為什麼？](https://medium.com/@hulitw/freecodecamp-hackernoon-are-leaving-medium-1b7319d7a8a7)  
 `2019-06-01` [非典型微 JGC 修行（JMB 水晶卡）之旅](https://medium.com/hulis-blog/jgc-and-jal-ctystal-862f2bb4af8b)  
@@ -94,6 +95,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 寫作相關
 
+`2019-07-02` [Medium 中文寫作者追蹤人數排名與不專業數據分析](https://medium.com/@hulitw/medium-analysis-40752b9efa03)  
 `2019-06-05` [Medium 出走潮：freeCodeCamp 與 Hacker Noon 相繼離開，為什麼？](https://medium.com/@hulitw/freecodecamp-hackernoon-are-leaving-medium-1b7319d7a8a7)  
 `2019-02-07` [每一篇心得都有價值——為什麼初學者才更應該要寫心得筆記](https://medium.com/hulis-blog/why-blogging-ab77fd8c6ffa)  
 `2018-11-15` [一週年報告：在 Medium 上寫程式與科技類文章的成效如何？](https://medium.com/@hulitw/one-year-review-2963f072572d)  
