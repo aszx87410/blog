@@ -16,6 +16,7 @@
 
 ## 依時間排序
 
+`2019-07-12`  [Medium 爬蟲進化史](https://github.com/aszx87410/blog/issues/44)  
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 `2019-05-18`  [幕後花絮：Lidemy HTTP Challenge 的設計以及彩蛋](https://github.com/aszx87410/blog/issues/42)  
 `2019-04-19`  [記一次幫開源專案 spectrum 修 bug 的經歷](https://github.com/aszx87410/blog/issues/41)  
@@ -115,6 +116,7 @@
 
 ### 其他
 
+`2019-07-12`  [Medium 爬蟲進化史](https://github.com/aszx87410/blog/issues/44)  
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 `2019-05-18`  [幕後花絮：Lidemy HTTP Challenge 的設計以及彩蛋](https://github.com/aszx87410/blog/issues/42)  
 `2019-01-03` [從 Redux 作者 Dan Abramov 的文章談前端學習路線圖](https://github.com/aszx87410/blog/issues/37)  
