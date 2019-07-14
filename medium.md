@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-07-14` [旅行的意義（上）：寫在遊日本、越南與美國後](https://medium.com/@hulitw/travel-part1-46e50a306467)  
 `2019-07-02` [Medium 中文寫作者追蹤人數排名與不專業數據分析](https://medium.com/@hulitw/medium-analysis-40752b9efa03)  
 `2019-06-20` [從拉麵店的販賣機理解什麼是 API](https://medium.com/@hulitw/ramen-and-api-6238437dc544)  
 `2019-06-05` [Medium 出走潮：freeCodeCamp 與 Hacker Noon 相繼離開，為什麼？](https://medium.com/@hulitw/freecodecamp-hackernoon-are-leaving-medium-1b7319d7a8a7)  
@@ -109,9 +110,13 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 `2017-10-29` [AsiaYo 如何在一天內用 Chatbot 摧毀使用者體驗](https://medium.com/hulis-blog/about-asiayo-chatbot-28704dc9b84a)  
 `2017-10-21` [四款訂餐外送 App 不專業評測](https://medium.com/hulis-blog/delivery-services-2d90ec1e3555)  
 
-### 其他
+### 旅遊相關
 
-`2019-06-01` [非典型微 JGC 修行（JMB 水晶卡）之旅](https://medium.com/hulis-blog/jgc-and-jal-ctystal-862f2bb4af8b)  
+`2019-07-14` [旅行的意義（上）：寫在遊日本、越南與美國後](https://medium.com/@hulitw/travel-part1-46e50a306467)  
+`2019-06-01` [非典型微 JGC 修行（JMB 水晶卡）之旅](https://medium.com/hulis-blog/jgc-and-jal-ctystal-862f2bb4af8b) 
+
+### 其他
+ 
 `2019-04-19` [期間限定企劃：請我吃飯](https://medium.com/hulis-blog/buy-me-a-meal-6e314b5d5bcb)  
 `2019-02-17` [好想工作室朝聖之旅：相信分享與交流可以讓世界更美好](https://medium.com/@hulitw/goodideas-studio-98dbafb99abf)  
 `2018-10-14` [撇除娛樂不談，在新加坡生活一個月要多少錢？](https://medium.com/hulis-blog/singapore-expense-6f5caaf6dd75)  
