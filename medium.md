@@ -3,9 +3,11 @@
 Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一份  
 底下是我在 Medium 發表的所有文章的列表，分別按時間與分類排序  
 （有些早期從臉書上備份過來的文章內容跟現在的差異太大所以沒有列入）
-
+https://medium.com/@hulitw/session-and-cookie-15e47ed838bc
 ## 依時間排序
 
+`2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
+`2019-07-25` [真正的 Mentorship program：前端引路人計畫](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)  
 `2019-07-14` [旅行的意義（上）：寫在遊日本、越南與美國後](https://medium.com/@hulitw/travel-part1-46e50a306467)  
 `2019-07-02` [Medium 中文寫作者追蹤人數排名與不專業數據分析](https://medium.com/@hulitw/medium-analysis-40752b9efa03)  
 `2019-06-20` [從拉麵店的販賣機理解什麼是 API](https://medium.com/@hulitw/ramen-and-api-6238437dc544)  
@@ -57,6 +59,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 技術相關
 
+`2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
 `2019-06-20` [從拉麵店的販賣機理解什麼是 API](https://medium.com/@hulitw/ramen-and-api-6238437dc544)  
 `2018-06-10` [零基礎的小明要如何成為前端工程師？](https://medium.com/hulis-blog/frontend-engineer-guide-297821512f4e)  
 `2018-05-04` [跟著小明一起搞懂技術名詞：MVC、SPA 與 SSR](https://medium.com/@hulitw/introduction-mvc-spa-and-ssr-545c941669e9)  
@@ -83,6 +86,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 教學計畫相關
 
+`2019-07-25` [真正的 Mentorship program：前端引路人計畫](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)  
 `2019-05-29` [從線上到線下：第三期教學實驗滿月心得分享](https://medium.com/hulis-blog/from-online-to-offline-bd99e545277a)  
 `2019-03-14` [大改版：程式導師實驗計畫第三期報名簡章](https://medium.com/hulis-blog/mentor-program-3rd-47a2e85e33b3)   
 `2019-03-13` [27% 的人找到工作——程式導師實驗計畫第二期成果報吿](https://medium.com/hulis-blog/mentor-program-2nd-result-3cb7c2b6627e)  
