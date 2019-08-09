@@ -3,7 +3,7 @@
 Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一份  
 底下是我在 Medium 發表的所有文章的列表，分別按時間與分類排序  
 （有些早期從臉書上備份過來的文章內容跟現在的差異太大所以沒有列入）
-https://medium.com/@hulitw/session-and-cookie-15e47ed838bc
+
 ## 依時間排序
 
 `2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
