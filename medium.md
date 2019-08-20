@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-08-20` [Lidemy 新課程上架以及課程說明](https://medium.com/@hulitw/lidemy-courses-fda610c7ff9b)  
 `2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
 `2019-07-25` [真正的 Mentorship program：前端引路人計畫](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)  
 `2019-07-14` [旅行的意義（上）：寫在遊日本、越南與美國後](https://medium.com/@hulitw/travel-part1-46e50a306467)  
@@ -86,6 +87,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 教學計畫相關
 
+`2019-08-20` [Lidemy 新課程上架以及課程說明](https://medium.com/@hulitw/lidemy-courses-fda610c7ff9b)  
 `2019-07-25` [真正的 Mentorship program：前端引路人計畫](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)  
 `2019-05-29` [從線上到線下：第三期教學實驗滿月心得分享](https://medium.com/hulis-blog/from-online-to-offline-bd99e545277a)  
 `2019-03-14` [大改版：程式導師實驗計畫第三期報名簡章](https://medium.com/hulis-blog/mentor-program-3rd-47a2e85e33b3)   
