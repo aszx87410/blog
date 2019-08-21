@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-08-20` [紮實的網頁前端學習路線與資源推薦](https://medium.com/@hulitw/front-end-learning-path-55201571ecfe)  
 `2019-08-20` [Lidemy 新課程上架以及課程說明](https://medium.com/@hulitw/lidemy-courses-fda610c7ff9b)  
 `2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
 `2019-07-25` [真正的 Mentorship program：前端引路人計畫](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)  
@@ -76,6 +77,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 學習相關
 
+`2019-08-20` [紮實的網頁前端學習路線與資源推薦](https://medium.com/@hulitw/front-end-learning-path-55201571ecfe)  
 `2019-05-10` [如何幫助學生解決程式問題？我認為的好方法跟壞方法](https://medium.com/hulis-blog/how-to-answer-question-eef8802126b3)  
 `2019-04-14` [學程式的第零課：心態調整](https://medium.com/hulis-blog/before-learning-b9b933b6078e)  
 `2019-04-10` [「真正的」看影片學英文：VoiceTube HERO 使用心得](https://medium.com/hulis-blog/voicetube-hero-review-9409c2248845)  
