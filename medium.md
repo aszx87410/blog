@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-09-25` [從傳紙條輕鬆學習基本網路概念](https://medium.com/@hulitw/learning-tcp-ip-http-via-sending-letter-5d3299203660)  
 `2019-08-22` [我是如何完成一篇文章的？](https://medium.com/@hulitw/how-do-i-write-965328ae91fe)  
 `2019-08-20` [紮實的網頁前端學習路線與資源推薦](https://medium.com/@hulitw/front-end-learning-path-55201571ecfe)  
 `2019-08-20` [Lidemy 新課程上架以及課程說明](https://medium.com/@hulitw/lidemy-courses-fda610c7ff9b)  
@@ -62,6 +63,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 技術相關
 
+`2019-09-25` [從傳紙條輕鬆學習基本網路概念](https://medium.com/@hulitw/learning-tcp-ip-http-via-sending-letter-5d3299203660)  
 `2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
 `2019-06-20` [從拉麵店的販賣機理解什麼是 API](https://medium.com/@hulitw/ramen-and-api-6238437dc544)  
 `2018-06-10` [零基礎的小明要如何成為前端工程師？](https://medium.com/hulis-blog/frontend-engineer-guide-297821512f4e)  
