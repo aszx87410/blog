@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2019-10-04`  [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！](https://github.com/aszx87410/blog/issues/49)  
 `2019-09-18`  [淺談新手在學習 SPA 時的常見問題：以 Router 為例](https://github.com/aszx87410/blog/issues/48)  
 `2019-08-21`  [紮實的網頁前端學習路線與資源推薦](https://github.com/aszx87410/blog/issues/47)  
 `2019-08-09`  [深入 Session 與 Cookie：Express、PHP 與 Rails 的實作](https://github.com/aszx87410/blog/issues/46)  
@@ -80,6 +81,7 @@
 ## 依分類排序
 
 ### JavaScript
+`2019-10-04`  [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！](https://github.com/aszx87410/blog/issues/49)  
 `2019-02-23`  [淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://github.com/aszx87410/blog/issues/39)  
 `2018-12-08`  [所有的函式都是閉包：談 JS 中的作用域與 Closure](https://github.com/aszx87410/blog/issues/35)  
 `2018-11-10`  [我知道你懂 hoisting，可是你了解到多深？](https://github.com/aszx87410/blog/issues/34)  
