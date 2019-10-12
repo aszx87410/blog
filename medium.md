@@ -72,6 +72,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2019-10-11` [工程師職涯隨意聊：改變環境，而不是讓環境改變你](https://medium.com/@hulitw/change-43bb422a30ed)  
 `2019-04-13` [成為前端工程師的四週年回顧](https://medium.com/hulis-blog/4-years-review-7fb7edc52687?source=friends_link&sk=8a0099e4e8a8245f93ed140444669cd2)  
 `2018-06-03` [該如何知道就業所需技能？以前端工程師為例](https://medium.com/hulis-blog/guide-for-getting-frontend-engineer-job-e73e04c2bec4)  
 `2018-06-03` [前端工程師的價值在哪？](https://medium.com/hulis-blog/value-of-fron-tend-1e047d4cb341)  
