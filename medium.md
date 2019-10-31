@@ -6,6 +6,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-10-31` [旅行的意義（下）：寫在遊阿布達比、歐洲與韓國後](https://medium.com/@hulitw/travel-part2-818482a90bc9)  
+`2019-10-29` [這只是個開始——寫在第三期課程結束後](https://medium.com/@hulitw/its-just-a-beginning-184b954df8a9)  
 `2019-10-14` [EY876 AUH-ICN A380 阿提哈德頭等艙體驗心得](https://medium.com/@hulitw/etihad-a380-auh-icn-first-class-352fdbbc08db)  
 `2019-10-11` [工程師職涯隨意聊：改變環境，而不是讓環境改變你](https://medium.com/@hulitw/change-43bb422a30ed)  
 `2019-09-25` [從傳紙條輕鬆學習基本網路概念](https://medium.com/@hulitw/learning-tcp-ip-http-via-sending-letter-5d3299203660)  
@@ -95,6 +97,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 教學計畫相關
 
+`2019-10-29` [這只是個開始——寫在第三期課程結束後](https://medium.com/@hulitw/its-just-a-beginning-184b954df8a9)  
 `2019-08-20` [Lidemy 新課程上架以及課程說明](https://medium.com/@hulitw/lidemy-courses-fda610c7ff9b)  
 `2019-07-25` [真正的 Mentorship program：前端引路人計畫](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)  
 `2019-05-29` [從線上到線下：第三期教學實驗滿月心得分享](https://medium.com/hulis-blog/from-online-to-offline-bd99e545277a)  
@@ -127,6 +130,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 旅遊相關
 
+`2019-10-31` [旅行的意義（下）：寫在遊阿布達比、歐洲與韓國後](https://medium.com/@hulitw/travel-part2-818482a90bc9)  
 `2019-10-14` [EY876 AUH-ICN A380 阿提哈德頭等艙體驗心得](https://medium.com/@hulitw/etihad-a380-auh-icn-first-class-352fdbbc08db)  
 `2019-07-14` [旅行的意義（上）：寫在遊日本、越南與美國後](https://medium.com/@hulitw/travel-part1-46e50a306467)  
 `2019-06-01` [非典型微 JGC 修行（JMB 水晶卡）之旅](https://medium.com/hulis-blog/jgc-and-jal-ctystal-862f2bb4af8b) 
