@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2019-11-01`  [程式解題新手入門注意事項](https://github.com/aszx87410/blog/issues/50)  
 `2019-10-04`  [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！](https://github.com/aszx87410/blog/issues/49)  
 `2019-09-18`  [淺談新手在學習 SPA 時的常見問題：以 Router 為例](https://github.com/aszx87410/blog/issues/48)  
 `2019-08-21`  [紮實的網頁前端學習路線與資源推薦](https://github.com/aszx87410/blog/issues/47)  
@@ -131,6 +132,7 @@
 `2016-04-23`  [用 Node.js 快速打造 RESTful API](https://github.com/aszx87410/blog/issues/6)  
 
 ### 演算法
+`2019-11-01`  [程式解題新手入門注意事項](https://github.com/aszx87410/blog/issues/50)  
 `2017-08-19`  [一起用 JavaScript 來複習經典排序法吧！](https://github.com/aszx87410/blog/issues/22)  
 `2016-09-24`  [淺談二分搜尋法](https://github.com/aszx87410/blog/issues/11)  
 
