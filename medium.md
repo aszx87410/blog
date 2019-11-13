@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-11-11` [隨意談看學生求職心得感想](https://medium.com/@hulitw/about-interview-95bfaa4273ba)  
 `2019-10-31` [旅行的意義（下）：寫在遊阿布達比、歐洲與韓國後](https://medium.com/@hulitw/travel-part2-818482a90bc9)  
 `2019-10-29` [這只是個開始——寫在第三期課程結束後](https://medium.com/@hulitw/its-just-a-beginning-184b954df8a9)  
 `2019-10-14` [EY876 AUH-ICN A380 阿提哈德頭等艙體驗心得](https://medium.com/@hulitw/etihad-a380-auh-icn-first-class-352fdbbc08db)  
@@ -97,6 +98,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 教學計畫相關
 
+`2019-11-11` [隨意談看學生求職心得感想](https://medium.com/@hulitw/about-interview-95bfaa4273ba)  
 `2019-10-29` [這只是個開始——寫在第三期課程結束後](https://medium.com/@hulitw/its-just-a-beginning-184b954df8a9)  
 `2019-08-20` [Lidemy 新課程上架以及課程說明](https://medium.com/@hulitw/lidemy-courses-fda610c7ff9b)  
 `2019-07-25` [真正的 Mentorship program：前端引路人計畫](https://medium.com/@hulitw/mentorship-program-350db93d5c9c)  
