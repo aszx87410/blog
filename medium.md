@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-11-17` [Medium 經營兩週年之隨意回顧](https://medium.com/@hulitw/two-year-review-e029ac415a12)  
 `2019-11-15` [或許有天，我會歸隱山林](https://medium.com/@hulitw/someday-i-will-a5aede6d30e2)  
 `2019-11-11` [隨意談看學生求職心得感想](https://medium.com/@hulitw/about-interview-95bfaa4273ba)  
 `2019-10-31` [旅行的意義（下）：寫在遊阿布達比、歐洲與韓國後](https://medium.com/@hulitw/travel-part2-818482a90bc9)  
@@ -116,6 +117,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 寫作相關
 
+`2019-11-17` [Medium 經營兩週年之隨意回顧](https://medium.com/@hulitw/two-year-review-e029ac415a12)  
 `2019-08-22` [我是如何完成一篇文章的？](https://medium.com/@hulitw/how-do-i-write-965328ae91fe)  
 `2019-07-02` [Medium 中文寫作者追蹤人數排名與不專業數據分析](https://medium.com/@hulitw/medium-analysis-40752b9efa03)  
 `2019-06-05` [Medium 出走潮：freeCodeCamp 與 Hacker Noon 相繼離開，為什麼？](https://medium.com/@hulitw/freecodecamp-hackernoon-are-leaving-medium-1b7319d7a8a7)  
