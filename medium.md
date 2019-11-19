@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-11-19` [期間限定：一對一程式家教](https://medium.com/@hulitw/coding-tutor-88c960dc8bbe)  
 `2019-11-17` [Medium 經營兩週年之隨意回顧](https://medium.com/@hulitw/two-year-review-e029ac415a12)  
 `2019-11-15` [或許有天，我會歸隱山林](https://medium.com/@hulitw/someday-i-will-a5aede6d30e2)  
 `2019-11-11` [隨意談看學生求職心得感想](https://medium.com/@hulitw/about-interview-95bfaa4273ba)  
@@ -100,6 +101,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 教學計畫相關
 
+`2019-11-19` [期間限定：一對一程式家教](https://medium.com/@hulitw/coding-tutor-88c960dc8bbe)  
 `2019-11-11` [隨意談看學生求職心得感想](https://medium.com/@hulitw/about-interview-95bfaa4273ba)  
 `2019-10-29` [這只是個開始——寫在第三期課程結束後](https://medium.com/@hulitw/its-just-a-beginning-184b954df8a9)  
 `2019-08-20` [Lidemy 新課程上架以及課程說明](https://medium.com/@hulitw/lidemy-courses-fda610c7ff9b)  
