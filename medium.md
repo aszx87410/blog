@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2019-12-19` [為了感謝讀者的年末特別贈書活動](https://medium.com/@hulitw/thanksgiving-event-873e0cd48833)  
 `2019-12-15` [華麗謝幕：程式導師實驗計畫第三期成果以及未來走向](https://medium.com/@hulitw/mentor-program-3rd-result-df178bb55f4)  
 `2019-12-01` [閉關修煉，一年後見](https://medium.com/@hulitw/best-one-year-696aa373207d)  
 `2019-11-22` [一知半解的感覺真差——談追根究底的理由](https://medium.com/@hulitw/epistemology-8845a97e846c)  
@@ -148,7 +149,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 `2019-06-01` [非典型微 JGC 修行（JMB 水晶卡）之旅](https://medium.com/hulis-blog/jgc-and-jal-ctystal-862f2bb4af8b) 
 
 ### 其他
- 
+
+`2019-12-19` [為了感謝讀者的年末特別贈書活動](https://medium.com/@hulitw/thanksgiving-event-873e0cd48833)  
 `2019-12-01` [閉關修煉，一年後見](https://medium.com/@hulitw/best-one-year-696aa373207d)  
 `2019-11-15` [或許有天，我會歸隱山林](https://medium.com/@hulitw/someday-i-will-a5aede6d30e2)   
 `2019-04-19` [期間限定企劃：請我吃飯](https://medium.com/hulis-blog/buy-me-a-meal-6e314b5d5bcb)  
