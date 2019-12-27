@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2019-12-27`  [From Nand To Tetris：想理解電腦運作，就先做出一台吧！](https://github.com/aszx87410/blog/issues/52)  
 `2019-12-01`  [Don’t break the Web：以 SmooshGate 以及 keygen 為例](https://github.com/aszx87410/blog/issues/51)  
 `2019-11-01`  [程式解題新手入門注意事項](https://github.com/aszx87410/blog/issues/50)  
 `2019-10-04`  [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！](https://github.com/aszx87410/blog/issues/49)  
@@ -140,6 +141,7 @@
 
 ### 其他
 
+`2019-12-27`  [From Nand To Tetris：想理解電腦運作，就先做出一台吧！](https://github.com/aszx87410/blog/issues/52)  
 `2019-07-12`  [Medium 爬蟲進化史](https://github.com/aszx87410/blog/issues/44)  
 `2019-05-18`  [幕後花絮：Lidemy HTTP Challenge 的設計以及彩蛋](https://github.com/aszx87410/blog/issues/42)  
 `2019-01-03`  [從 Redux 作者 Dan Abramov 的文章談前端學習路線圖](https://github.com/aszx87410/blog/issues/37)  
