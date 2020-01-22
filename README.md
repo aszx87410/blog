@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2020-01-22`  [webpack 新手教學之淺談模組化與 snowpack](https://github.com/aszx87410/blog/issues/53)  
 `2019-12-27`  [From Nand To Tetris：想理解電腦運作，就先做出一台吧！](https://github.com/aszx87410/blog/issues/52)  
 `2019-12-01`  [Don’t break the Web：以 SmooshGate 以及 keygen 為例](https://github.com/aszx87410/blog/issues/51)  
 `2019-11-01`  [程式解題新手入門注意事項](https://github.com/aszx87410/blog/issues/50)  
@@ -101,6 +102,7 @@
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 
 ### 前端相關
+`2020-01-22`  [webpack 新手教學之淺談模組化與 snowpack](https://github.com/aszx87410/blog/issues/53)  
 `2019-09-18`  [淺談新手在學習 SPA 時的常見問題：以 Router 為例](https://github.com/aszx87410/blog/issues/48)  
 `2019-08-21`  [紮實的網頁前端學習路線與資源推薦](https://github.com/aszx87410/blog/issues/47)  
 `2019-01-27`  [邪魔歪道還是苦口良藥？Functional CSS 經驗分享](https://github.com/aszx87410/blog/issues/38)  
