@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-01-28` [寫技術部落格不需要那麼大費周章](https://medium.com/@hulitw/tech-blog-coderbridge-to-the-rescue-2ba5b52d8bcd)  
 `2020-01-13` [程式導師實驗計畫隨意聊總集（下）](https://medium.com/@hulitw/weekly-note-part3-87969dd50929)  
 `2020-01-13` [程式導師實驗計畫隨意聊總集（中）](https://medium.com/@hulitw/weekly-note-part2-20fb2472d432)  
 `2019-12-27` [程式導師實驗計畫隨意聊總集（上）](https://medium.com/@hulitw/weekly-note-part1-197335682a61)  
@@ -133,6 +134,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 寫作相關
 
+`2020-01-28` [寫技術部落格不需要那麼大費周章](https://medium.com/@hulitw/tech-blog-coderbridge-to-the-rescue-2ba5b52d8bcd)  
 `2019-11-17` [Medium 經營兩週年之隨意回顧](https://medium.com/@hulitw/two-year-review-e029ac415a12)  
 `2019-08-22` [我是如何完成一篇文章的？](https://medium.com/@hulitw/how-do-i-write-965328ae91fe)  
 `2019-07-02` [Medium 中文寫作者追蹤人數排名與不專業數據分析](https://medium.com/@hulitw/medium-analysis-40752b9efa03)  
