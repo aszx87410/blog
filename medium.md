@@ -6,6 +6,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-02-03` [我與拖延症對抗的五十天](https://medium.com/@hulitw/fight-against-procrastination-but-lost-b43d3c4164e1)  
+`2020-02-03` [提早出關，大家安安](https://medium.com/@hulitw/i-failed-9386c6b0a681)  
 `2020-01-28` [寫技術部落格不需要那麼大費周章](https://medium.com/@hulitw/tech-blog-coderbridge-to-the-rescue-2ba5b52d8bcd)  
 `2020-01-13` [程式導師實驗計畫隨意聊總集（下）](https://medium.com/@hulitw/weekly-note-part3-87969dd50929)  
 `2020-01-13` [程式導師實驗計畫隨意聊總集（中）](https://medium.com/@hulitw/weekly-note-part2-20fb2472d432)  
@@ -160,6 +162,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2020-02-03` [我與拖延症對抗的五十天](https://medium.com/@hulitw/fight-against-procrastination-but-lost-b43d3c4164e1)  
+`2020-02-03` [提早出關，大家安安](https://medium.com/@hulitw/i-failed-9386c6b0a681)  
 `2019-12-19` [為了感謝讀者的年末特別贈書活動](https://medium.com/@hulitw/thanksgiving-event-873e0cd48833)  
 `2019-12-01` [閉關修煉，一年後見](https://medium.com/@hulitw/best-one-year-696aa373207d)  
 `2019-11-15` [或許有天，我會歸隱山林](https://medium.com/@hulitw/someday-i-will-a5aede6d30e2)   
