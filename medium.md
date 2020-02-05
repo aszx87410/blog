@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-02-05` [沒有目標也沒有關係](https://medium.com/@hulitw/its-okay-if-you-dont-have-goal-35363a8d8266)  
 `2020-02-03` [我與拖延症對抗的五十天](https://medium.com/@hulitw/fight-against-procrastination-but-lost-b43d3c4164e1)  
 `2020-02-03` [提早出關，大家安安](https://medium.com/@hulitw/i-failed-9386c6b0a681)  
 `2020-01-28` [寫技術部落格不需要那麼大費周章](https://medium.com/@hulitw/tech-blog-coderbridge-to-the-rescue-2ba5b52d8bcd)  
@@ -162,6 +163,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2020-02-05` [沒有目標也沒有關係](https://medium.com/@hulitw/its-okay-if-you-dont-have-goal-35363a8d8266)  
 `2020-02-03` [我與拖延症對抗的五十天](https://medium.com/@hulitw/fight-against-procrastination-but-lost-b43d3c4164e1)  
 `2020-02-03` [提早出關，大家安安](https://medium.com/@hulitw/i-failed-9386c6b0a681)  
 `2019-12-19` [為了感謝讀者的年末特別贈書活動](https://medium.com/@hulitw/thanksgiving-event-873e0cd48833)  
