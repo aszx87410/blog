@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-02-09` [談團隊合作與個人英雄主義](https://medium.com/@hulitw/teamwork-d2d0ac73812)  
 `2020-02-05` [沒有目標也沒有關係](https://medium.com/@hulitw/its-okay-if-you-dont-have-goal-35363a8d8266)  
 `2020-02-03` [我與拖延症對抗的五十天](https://medium.com/@hulitw/fight-against-procrastination-but-lost-b43d3c4164e1)  
 `2020-02-03` [提早出關，大家安安](https://medium.com/@hulitw/i-failed-9386c6b0a681)  
@@ -163,6 +164,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2020-02-09` [談團隊合作與個人英雄主義](https://medium.com/@hulitw/teamwork-d2d0ac73812)  
 `2020-02-05` [沒有目標也沒有關係](https://medium.com/@hulitw/its-okay-if-you-dont-have-goal-35363a8d8266)  
 `2020-02-03` [我與拖延症對抗的五十天](https://medium.com/@hulitw/fight-against-procrastination-but-lost-b43d3c4164e1)  
 `2020-02-03` [提早出關，大家安安](https://medium.com/@hulitw/i-failed-9386c6b0a681)  
