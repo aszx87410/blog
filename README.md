@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2020-02-21`  [從 V8 bytecode 看 let 與 var 的效能問題](https://github.com/aszx87410/blog/issues/54)  
 `2020-01-22`  [webpack 新手教學之淺談模組化與 snowpack](https://github.com/aszx87410/blog/issues/53)  
 `2019-12-27`  [From Nand To Tetris：想理解電腦運作，就先做出一台吧！](https://github.com/aszx87410/blog/issues/52)  
 `2019-12-01`  [Don’t break the Web：以 SmooshGate 以及 keygen 為例](https://github.com/aszx87410/blog/issues/51)  
@@ -85,6 +86,7 @@
 ## 依分類排序
 
 ### JavaScript
+`2020-02-21`  [從 V8 bytecode 看 let 與 var 的效能問題](https://github.com/aszx87410/blog/issues/54)  
 `2019-10-04`  [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！](https://github.com/aszx87410/blog/issues/49)  
 `2019-02-23`  [淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://github.com/aszx87410/blog/issues/39)  
 `2018-12-08`  [所有的函式都是閉包：談 JS 中的作用域與 Closure](https://github.com/aszx87410/blog/issues/35)  
