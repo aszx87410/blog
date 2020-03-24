@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2020-03-24`  [你需要注意的 console.log 問題](https://github.com/aszx87410/blog/issues/56)  
 `2020-03-23`  [自己架一個 Online Judge 系統](https://github.com/aszx87410/blog/issues/55)  
 `2020-02-21`  [從 V8 bytecode 看 let 與 var 的效能問題](https://github.com/aszx87410/blog/issues/54)  
 `2020-01-22`  [webpack 新手教學之淺談模組化與 snowpack](https://github.com/aszx87410/blog/issues/53)  
@@ -105,6 +106,7 @@
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 
 ### 前端相關
+`2020-03-24`  [你需要注意的 console.log 問題](https://github.com/aszx87410/blog/issues/56)  
 `2020-01-22`  [webpack 新手教學之淺談模組化與 snowpack](https://github.com/aszx87410/blog/issues/53)  
 `2019-09-18`  [淺談新手在學習 SPA 時的常見問題：以 Router 為例](https://github.com/aszx87410/blog/issues/48)  
 `2019-08-21`  [紮實的網頁前端學習路線與資源推薦](https://github.com/aszx87410/blog/issues/47)  
