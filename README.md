@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2020-04-18`  [覺得 JavaScript function 很有趣的我是不是很奇怪](https://github.com/aszx87410/blog/issues/57)  
 `2020-03-24`  [你需要注意的 console.log 問題](https://github.com/aszx87410/blog/issues/56)  
 `2020-03-23`  [自己架一個 Online Judge 系統](https://github.com/aszx87410/blog/issues/55)  
 `2020-02-21`  [從 V8 bytecode 看 let 與 var 的效能問題](https://github.com/aszx87410/blog/issues/54)  
@@ -88,6 +89,7 @@
 ## 依分類排序
 
 ### JavaScript
+`2020-04-18`  [覺得 JavaScript function 很有趣的我是不是很奇怪](https://github.com/aszx87410/blog/issues/57)  
 `2020-02-21`  [從 V8 bytecode 看 let 與 var 的效能問題](https://github.com/aszx87410/blog/issues/54)  
 `2019-10-04`  [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！](https://github.com/aszx87410/blog/issues/49)  
 `2019-02-23`  [淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://github.com/aszx87410/blog/issues/39)  
