@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-04-26` [關於求職，連我自己都不知道我要什麼](https://medium.com/@hulitw/i-dont-know-what-i-want-about-career-383bee0be733)  
 `2020-04-23` [獵人頭觀察報告](https://medium.com/@hulitw/about-head-hunter-27fe1c28648f)  
 `2020-04-19` [打造「正確」學習 mindset](https://medium.com/@hulitw/mindset-36c163303217)  
 `2020-03-23` [《先別急著寫 leetcode》線上課程製作全記錄](https://medium.com/@hulitw/leetcode-alg101-4848b595cef4)  
@@ -97,6 +98,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2020-04-26` [關於求職，連我自己都不知道我要什麼](https://medium.com/@hulitw/i-dont-know-what-i-want-about-career-383bee0be733)  
 `2020-04-23` [獵人頭觀察報告](https://medium.com/@hulitw/about-head-hunter-27fe1c28648f)  
 `2019-10-11` [工程師職涯隨意聊：改變環境，而不是讓環境改變你](https://medium.com/@hulitw/change-43bb422a30ed)  
 `2019-04-13` [成為前端工程師的四週年回顧](https://medium.com/hulis-blog/4-years-review-7fb7edc52687?source=friends_link&sk=8a0099e4e8a8245f93ed140444669cd2)  
