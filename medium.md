@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-04-28` [2020 資深前端工程師面試心得（4y, 100k+）](https://medium.com/@hulitw/2020-senior-front-end-engineer-interview-249c719c1a97)  
 `2020-04-26` [關於求職，連我自己都不知道我要什麼](https://medium.com/@hulitw/i-dont-know-what-i-want-about-career-383bee0be733)  
 `2020-04-23` [獵人頭觀察報告](https://medium.com/@hulitw/about-head-hunter-27fe1c28648f)  
 `2020-04-19` [打造「正確」學習 mindset](https://medium.com/@hulitw/mindset-36c163303217)  
@@ -98,6 +99,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2020-04-28` [2020 資深前端工程師面試心得（4y, 100k+）](https://medium.com/@hulitw/2020-senior-front-end-engineer-interview-249c719c1a97)  
 `2020-04-26` [關於求職，連我自己都不知道我要什麼](https://medium.com/@hulitw/i-dont-know-what-i-want-about-career-383bee0be733)  
 `2020-04-23` [獵人頭觀察報告](https://medium.com/@hulitw/about-head-hunter-27fe1c28648f)  
 `2019-10-11` [工程師職涯隨意聊：改變環境，而不是讓環境改變你](https://medium.com/@hulitw/change-43bb422a30ed)  
