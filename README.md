@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2020-06-15`  [從實際案例看 class 與 function component 的差異](https://github.com/aszx87410/blog/issues/59)  
 `2020-05-16`  [簡易 Regular Expression 入門指南](https://github.com/aszx87410/blog/issues/58)  
 `2020-04-18`  [覺得 JavaScript function 很有趣的我是不是很奇怪](https://github.com/aszx87410/blog/issues/57)  
 `2020-03-24`  [你需要注意的 console.log 問題](https://github.com/aszx87410/blog/issues/56)  
@@ -126,6 +127,7 @@
 `2017-02-25`  [讓我們來談談 CSRF](https://github.com/aszx87410/blog/issues/16)  
 
 ### React
+`2020-06-15`  [從實際案例看 class 與 function component 的差異](https://github.com/aszx87410/blog/issues/59)  
 `2019-03-24`  [從 React 原始碼看 keyPress 與 keyDown 事件](https://github.com/aszx87410/blog/issues/40)  
 `2018-03-31`  [淺談 React Fiber 及其對 lifecycles 造成的影響](https://github.com/aszx87410/blog/issues/29)  
 `2018-01-05`  [React 性能優化大挑戰：一次理解 Immutable data 跟 shouldComponentUpdate](https://github.com/aszx87410/blog/issues/26)  
