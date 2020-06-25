@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-06-25` [從博物館寄物櫃理解變數儲存模型](https://medium.com/@hulitw/variable-and-frontdesk-a53a0440af3c)  
 `2020-06-06` [讀完了兩百封報名信之後，我迷惘了](https://medium.com/@hulitw/confused-d83a4091eca)  
 `2020-06-02` [轉職軟體工程師可能沒有你想像中的那麼美好](https://medium.com/@hulitw/to-be-an-engineer-c20c962d44cf)  
 `2020-05-23` [最好的我，最好的你](https://medium.com/@hulitw/best-e55cb3491b23)  
@@ -95,6 +96,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 技術相關
 
+`2020-06-25` [從博物館寄物櫃理解變數儲存模型](https://medium.com/@hulitw/variable-and-frontdesk-a53a0440af3c)  
 `2019-09-25` [從傳紙條輕鬆學習基本網路概念](https://medium.com/@hulitw/learning-tcp-ip-http-via-sending-letter-5d3299203660)  
 `2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
 `2019-06-20` [從拉麵店的販賣機理解什麼是 API](https://medium.com/@hulitw/ramen-and-api-6238437dc544)  
