@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2020-09-09`  [淺談 React 中的 state 與 useEffect](https://github.com/aszx87410/blog/issues/63)  
 `2020-09-05`  [從 SessionStorage 開始一場 spec 之旅](https://github.com/aszx87410/blog/issues/62)  
 `2020-08-07`  [Vite 怎麼能那麼快？從 ES modules 開始談起](https://github.com/aszx87410/blog/issues/61)  
 `2020-07-11`  [一個有趣的 styled components bug](https://github.com/aszx87410/blog/issues/60)  
@@ -133,6 +134,7 @@
 `2017-02-25`  [讓我們來談談 CSRF](https://github.com/aszx87410/blog/issues/16)  
 
 ### React
+`2020-09-09`  [淺談 React 中的 state 與 useEffect](https://github.com/aszx87410/blog/issues/63)  
 `2020-06-15`  [從實際案例看 class 與 function component 的差異](https://github.com/aszx87410/blog/issues/59)  
 `2019-03-24`  [從 React 原始碼看 keyPress 與 keyDown 事件](https://github.com/aszx87410/blog/issues/40)  
 `2018-03-31`  [淺談 React Fiber 及其對 lifecycles 造成的影響](https://github.com/aszx87410/blog/issues/29)  
