@@ -6,6 +6,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-10-04` [程式導師實驗計畫第四期課程做了哪些改動？](https://hulitw.medium.com/lidemy-mentor-program-4th-updates-c344302c8a2d)  
+`2020-10-02` [前端引路人計畫失敗心得](https://hulitw.medium.com/failed-mentorship-program-70a3c50caf7f)  
 `2020-09-07` [讀了之後心有戚戚焉的《下班後1小時的極速學習攻略》](https://medium.com/@hulitw/learning-how-to-learn-7c92be9b72fa)  
 `2020-07-22` [那些可以問得更好的程式問題](https://medium.com/@hulitw/ask-better-questions-19f01b02f436)  
 `2020-06-25` [從博物館寄物櫃理解變數儲存模型](https://medium.com/@hulitw/variable-and-frontdesk-a53a0440af3c)  
@@ -139,6 +141,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 教學計畫相關
 
+`2020-10-04` [程式導師實驗計畫第四期課程做了哪些改動？](https://hulitw.medium.com/lidemy-mentor-program-4th-updates-c344302c8a2d)  
+`2020-10-02` [前端引路人計畫失敗心得](https://hulitw.medium.com/failed-mentorship-program-70a3c50caf7f)  
 `2020-06-06` [讀完了兩百封報名信之後，我迷惘了](https://medium.com/@hulitw/confused-d83a4091eca)  
 `2020-06-02` [轉職軟體工程師可能沒有你想像中的那麼美好](https://medium.com/@hulitw/to-be-an-engineer-c20c962d44cf)  
 `2020-05-23` [最好的我，最好的你](https://medium.com/@hulitw/best-e55cb3491b23)  
