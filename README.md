@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2020-12-01`  [如何不用英文字母與數字寫出 console.log(1)？](https://github.com/aszx87410/blog/issues/65)  
 `2020-10-31`  [I don't know React（一）](https://github.com/aszx87410/blog/issues/64)  
 `2020-09-09`  [淺談 React 中的 state 與 useEffect](https://github.com/aszx87410/blog/issues/63)  
 `2020-09-05`  [從 SessionStorage 開始一場 spec 之旅](https://github.com/aszx87410/blog/issues/62)  
@@ -96,6 +97,7 @@
 ## 依分類排序
 
 ### JavaScript
+`2020-12-01`  [如何不用英文字母與數字寫出 console.log(1)？](https://github.com/aszx87410/blog/issues/65)  
 `2020-04-18`  [覺得 JavaScript function 很有趣的我是不是很奇怪](https://github.com/aszx87410/blog/issues/57)  
 `2020-02-21`  [從 V8 bytecode 看 let 與 var 的效能問題](https://github.com/aszx87410/blog/issues/54)  
 `2019-10-04`  [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！](https://github.com/aszx87410/blog/issues/49)  
