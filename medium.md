@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2020-12-08` [金融保險科技公司 OneDegree 工作半年心得](https://hulitw.medium.com/working-at-onedegree-378a0401130e)  
 `2020-11-15` [我心目中的理想徵才文](https://hulitw.medium.com/my-ideal-job-description-d72ec9cf5d0e)  
 `2020-10-04` [程式導師實驗計畫第四期課程做了哪些改動？](https://hulitw.medium.com/lidemy-mentor-program-4th-updates-c344302c8a2d)  
 `2020-10-02` [前端引路人計畫失敗心得](https://hulitw.medium.com/failed-mentorship-program-70a3c50caf7f)  
@@ -110,6 +111,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2020-12-08` [金融保險科技公司 OneDegree 工作半年心得](https://hulitw.medium.com/working-at-onedegree-378a0401130e)  
 `2020-11-15` [我心目中的理想徵才文](https://hulitw.medium.com/my-ideal-job-description-d72ec9cf5d0e)  
 `2020-04-28` [2020 資深前端工程師面試心得（4y, 100k+）](https://medium.com/@hulitw/2020-senior-front-end-engineer-interview-249c719c1a97)  
 `2020-04-26` [關於求職，連我自己都不知道我要什麼](https://medium.com/@hulitw/i-dont-know-what-i-want-about-career-383bee0be733)  
