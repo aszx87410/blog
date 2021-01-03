@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-01-03` [線上課程平台 Teachable 介紹與使用心得](https://hulitw.medium.com/teachable-introduction-and-review-ca3946e9a1e1)  
 `2020-12-08` [金融保險科技公司 OneDegree 工作半年心得](https://hulitw.medium.com/working-at-onedegree-378a0401130e)  
 `2020-11-15` [我心目中的理想徵才文](https://hulitw.medium.com/my-ideal-job-description-d72ec9cf5d0e)  
 `2020-10-04` [程式導師實驗計畫第四期課程做了哪些改動？](https://hulitw.medium.com/lidemy-mentor-program-4th-updates-c344302c8a2d)  
@@ -200,6 +201,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2021-01-03` [線上課程平台 Teachable 介紹與使用心得](https://hulitw.medium.com/teachable-introduction-and-review-ca3946e9a1e1)  
 `2020-02-09` [談團隊合作與個人英雄主義](https://medium.com/@hulitw/teamwork-d2d0ac73812)  
 `2020-02-05` [沒有目標也沒有關係](https://medium.com/@hulitw/its-okay-if-you-dont-have-goal-35363a8d8266)  
 `2020-02-03` [我與拖延症對抗的五十天](https://medium.com/@hulitw/fight-against-procrastination-but-lost-b43d3c4164e1)  
