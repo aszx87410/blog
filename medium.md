@@ -10,6 +10,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 `2021-02-22` [程式導師實驗計畫第四期檢討與心得](https://hulitw.medium.com/mentor-program-4th-review-f8e8de92eea2)  
 `2021-02-13` [只是想寫一下](https://hulitw.medium.com/happy-new-year-moo-e0e0ac5130e2)  
 `2021-01-03` [線上課程平台 Teachable 介紹與使用心得](https://hulitw.medium.com/teachable-introduction-and-review-ca3946e9a1e1)  
+
 `2020-12-08` [金融保險科技公司 OneDegree 工作半年心得](https://hulitw.medium.com/working-at-onedegree-378a0401130e)  
 `2020-11-15` [我心目中的理想徵才文](https://hulitw.medium.com/my-ideal-job-description-d72ec9cf5d0e)  
 `2020-10-04` [程式導師實驗計畫第四期課程做了哪些改動？](https://hulitw.medium.com/lidemy-mentor-program-4th-updates-c344302c8a2d)  
@@ -35,6 +36,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 `2020-01-28` [寫技術部落格不需要那麼大費周章](https://medium.com/@hulitw/tech-blog-coderbridge-to-the-rescue-2ba5b52d8bcd)  
 `2020-01-13` [程式導師實驗計畫隨意聊總集（下）](https://medium.com/@hulitw/weekly-note-part3-87969dd50929)  
 `2020-01-13` [程式導師實驗計畫隨意聊總集（中）](https://medium.com/@hulitw/weekly-note-part2-20fb2472d432)  
+
 `2019-12-27` [程式導師實驗計畫隨意聊總集（上）](https://medium.com/@hulitw/weekly-note-part1-197335682a61)  
 `2019-12-23` [CLN 新貴語文電郵寫作班心得（上）](https://medium.com/@hulitw/cln-email-writing-part1-5262fcd9ff79)  
 `2019-12-19` [為了感謝讀者的年末特別贈書活動](https://medium.com/@hulitw/thanksgiving-event-873e0cd48833)  
@@ -73,6 +75,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 `2019-02-06` [程式相關問題一網打盡：談自學、轉職、出國、職涯、教學、補習、騙錢、產業以及努力](https://medium.com/hulis-blog/qa-be72946f0b23)  
 `2019-01-21` [四個月過去了，來找我學程式的學生們怎麼樣了？](https://medium.com/hulis-blog/mentor-program-2nd-review-e7c15f24dfb8)  
 `2019-01-01` [三百個訂單後，再次評比訂餐外送 App](https://medium.com/hulis-blog/delivery-300-311d531e1e65)  
+
 `2018-11-22` [There is no magic in my classroom](https://medium.com/hulis-blog/there-is-no-magic-in-my-classroom-4926b67c06f5)  
 `2018-11-15` [一週年報告：在 Medium 上寫程式與科技類文章的成效如何？](https://medium.com/@hulitw/one-year-review-2963f072572d)  
 `2018-11-04` [這是一堂沒那麼適合初學者的課程——程式導師實驗計畫第二期期中反思](https://medium.com/hulis-blog/mentor-program-2nd-mid-c7539f67b7d7)  
@@ -90,6 +93,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 `2018-06-03` [前端工程師的價值在哪？](https://medium.com/hulis-blog/value-of-fron-tend-1e047d4cb341)  
 `2018-05-04` [跟著小明一起搞懂技術名詞：MVC、SPA 與 SSR](https://medium.com/@hulitw/introduction-mvc-spa-and-ssr-545c941669e9)  
 `2018-03-01` [東南亞吃飯省錢必備神器：Eatigo](https://medium.com/hulis-blog/eatigo-128375a0caf)  
+
 `2017-12-21` [從零到一：程式導師實驗計畫](https://medium.com/@hulitw/mentor-program-b5f96ae1eed1)  
 `2017-11-28` [很抱歉，但你們都不夠好— — 四款智慧型手錶使用心得](https://medium.com/@hulitw/smartwatch-review-55dac978bbf5)  
 `2017-10-29` [AsiaYo 如何在一天內用 Chatbot 摧毀使用者體驗](https://medium.com/hulis-blog/about-asiayo-chatbot-28704dc9b84a)  
