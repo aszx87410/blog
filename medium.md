@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-04-03` [非同步溝通](https://hulitw.medium.com/async-communication-f786eb49a1da)  
 `2021-02-24` [程式導師實驗計畫第五期開始啦！](https://hulitw.medium.com/mentor-program-5th-start-c7da09311272)  
 `2021-02-22` [程式導師實驗計畫第四期檢討與心得](https://hulitw.medium.com/mentor-program-4th-review-f8e8de92eea2)  
 `2021-02-13` [只是想寫一下](https://hulitw.medium.com/happy-new-year-moo-e0e0ac5130e2)  
@@ -210,6 +211,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2021-04-03` [非同步溝通](https://hulitw.medium.com/async-communication-f786eb49a1da)  
 `2021-02-13` [只是想寫一下](https://hulitw.medium.com/happy-new-year-moo-e0e0ac5130e2)  
 `2021-01-03` [線上課程平台 Teachable 介紹與使用心得](https://hulitw.medium.com/teachable-introduction-and-review-ca3946e9a1e1)  
 `2020-02-09` [談團隊合作與個人英雄主義](https://medium.com/@hulitw/teamwork-d2d0ac73812)  
