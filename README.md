@@ -23,6 +23,8 @@
 
 ## 依時間排序
 
+`2021-05-25`  [解題心得：Intigriti's 0421 XSS challenge（上）](https://github.com/aszx87410/blog/issues/78)  
+`2021-05-25`  [防止 XSS 可能比想像中困難](https://github.com/aszx87410/blog/issues/77)  
 `2021-04-17`  [寫一個簡單堪用的 ESLint plugin](https://github.com/aszx87410/blog/issues/76)  
 `2021-03-20`  [一些不太好記卻很好用的 CSS 屬性](https://github.com/aszx87410/blog/issues/75)  
 `2021-02-20`  [該如何入門 CTF 中的 Web 題？ ](https://github.com/aszx87410/blog/issues/74)  
@@ -169,6 +171,8 @@
 `2015-09-01`  [redux 簡介](https://github.com/aszx87410/blog/issues/3)  
 
 ## Security
+`2021-05-25`  [解題心得：Intigriti's 0421 XSS challenge（上）](https://github.com/aszx87410/blog/issues/78)  
+`2021-05-25`  [防止 XSS 可能比想像中困難](https://github.com/aszx87410/blog/issues/77)  
 `2021-02-20`  [該如何入門 CTF 中的 Web 題？ ](https://github.com/aszx87410/blog/issues/74)  
 `2020-01-23`  [淺談 DOM Clobbering 的原理及應用](https://github.com/aszx87410/blog/issues/67)  
 
