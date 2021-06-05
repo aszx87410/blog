@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-06-05` [暫別前端，重新開始](https://hulitw.medium.com/byebye-front-end-hi-security-fda6be0cb7ce)  
 `2021-04-03` [非同步溝通](https://hulitw.medium.com/async-communication-f786eb49a1da)  
 `2021-02-24` [程式導師實驗計畫第五期開始啦！](https://hulitw.medium.com/mentor-program-5th-start-c7da09311272)  
 `2021-02-22` [程式導師實驗計畫第四期檢討與心得](https://hulitw.medium.com/mentor-program-4th-review-f8e8de92eea2)  
@@ -120,6 +121,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2021-06-05` [暫別前端，重新開始](https://hulitw.medium.com/byebye-front-end-hi-security-fda6be0cb7ce)  
 `2020-12-08` [金融保險科技公司 OneDegree 工作半年心得](https://hulitw.medium.com/working-at-onedegree-378a0401130e)  
 `2020-11-15` [我心目中的理想徵才文](https://hulitw.medium.com/my-ideal-job-description-d72ec9cf5d0e)  
 `2020-04-28` [2020 資深前端工程師面試心得（4y, 100k+）](https://medium.com/@hulitw/2020-senior-front-end-engineer-interview-249c719c1a97)  
