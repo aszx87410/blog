@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2021-06-07`  [Intigriti’s 0521 XSS 挑戰解法：限定字元組合程式碼](https://github.com/aszx87410/blog/issues/79)  
 `2021-05-25`  [解題心得：Intigriti's 0421 XSS challenge（上）](https://github.com/aszx87410/blog/issues/78)  
 `2021-05-25`  [防止 XSS 可能比想像中困難](https://github.com/aszx87410/blog/issues/77)  
 `2021-04-17`  [寫一個簡單堪用的 ESLint plugin](https://github.com/aszx87410/blog/issues/76)  
@@ -171,6 +172,7 @@
 `2015-09-01`  [redux 簡介](https://github.com/aszx87410/blog/issues/3)  
 
 ## Security
+`2021-06-07`  [Intigriti’s 0521 XSS 挑戰解法：限定字元組合程式碼](https://github.com/aszx87410/blog/issues/79)  
 `2021-05-25`  [解題心得：Intigriti's 0421 XSS challenge（上）](https://github.com/aszx87410/blog/issues/78)  
 `2021-05-25`  [防止 XSS 可能比想像中困難](https://github.com/aszx87410/blog/issues/77)  
 `2021-02-20`  [該如何入門 CTF 中的 Web 題？ ](https://github.com/aszx87410/blog/issues/74)  
