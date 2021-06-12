@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2021-06-12`  [用 Paged.js 做出適合印成 PDF 的 HTML 網頁](https://github.com/aszx87410/blog/issues/80)  
 `2021-06-07`  [Intigriti’s 0521 XSS 挑戰解法：限定字元組合程式碼](https://github.com/aszx87410/blog/issues/79)  
 `2021-05-25`  [解題心得：Intigriti's 0421 XSS challenge（上）](https://github.com/aszx87410/blog/issues/78)  
 `2021-05-25`  [防止 XSS 可能比想像中困難](https://github.com/aszx87410/blog/issues/77)  
@@ -141,6 +142,7 @@
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 
 ### 前端相關
+`2021-06-12`  [用 Paged.js 做出適合印成 PDF 的 HTML 網頁](https://github.com/aszx87410/blog/issues/80)  
 `2021-04-17`  [寫一個簡單堪用的 ESLint plugin](https://github.com/aszx87410/blog/issues/76)  
 `2021-03-20`  [一些不太好記卻很好用的 CSS 屬性](https://github.com/aszx87410/blog/issues/75)  
 `2020-08-07`  [Vite 怎麼能那麼快？從 ES modules 開始談起](https://github.com/aszx87410/blog/issues/61)  
