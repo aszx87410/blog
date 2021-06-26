@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-06-25` [簡單介紹發布 Medium 文章前可以改的東西](https://hulitw.medium.com/update-settings-before-publish-on-medium-d2993706a9b0)  
 `2021-06-05` [暫別前端，重新開始](https://hulitw.medium.com/byebye-front-end-hi-security-fda6be0cb7ce)  
 `2021-04-03` [非同步溝通](https://hulitw.medium.com/async-communication-f786eb49a1da)  
 `2021-02-24` [程式導師實驗計畫第五期開始啦！](https://hulitw.medium.com/mentor-program-5th-start-c7da09311272)  
@@ -187,6 +188,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 寫作相關
 
+`2021-06-25` [簡單介紹發布 Medium 文章前可以改的東西](https://hulitw.medium.com/update-settings-before-publish-on-medium-d2993706a9b0)  
 `2020-01-28` [寫技術部落格不需要那麼大費周章](https://medium.com/@hulitw/tech-blog-coderbridge-to-the-rescue-2ba5b52d8bcd)  
 `2019-11-17` [Medium 經營兩週年之隨意回顧](https://medium.com/@hulitw/two-year-review-e029ac415a12)  
 `2019-08-22` [我是如何完成一篇文章的？](https://medium.com/@hulitw/how-do-i-write-965328ae91fe)  
