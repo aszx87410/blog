@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2021-08-06`  [Intigriti 七月份 XSS 挑戰：突破層層關卡](https://github.com/aszx87410/blog/issues/83)  
 `2021-07-10`  [利用 Cookie 特性進行的 DoS 攻擊：Cookie 炸彈](https://github.com/aszx87410/blog/issues/82)  
 `2021-06-19`  [淺談 XSS 攻擊與防禦的各個環節](https://github.com/aszx87410/blog/issues/81)  
 `2021-06-12`  [用 Paged.js 做出適合印成 PDF 的 HTML 網頁](https://github.com/aszx87410/blog/issues/80)  
@@ -116,6 +117,7 @@
 ## 依分類排序
 
 ## Security
+`2021-08-06`  [Intigriti 七月份 XSS 挑戰：突破層層關卡](https://github.com/aszx87410/blog/issues/83)  
 `2021-07-10`  [利用 Cookie 特性進行的 DoS 攻擊：Cookie 炸彈](https://github.com/aszx87410/blog/issues/82)  
 `2021-06-19`  [淺談 XSS 攻擊與防禦的各個環節](https://github.com/aszx87410/blog/issues/81)  
 `2021-06-07`  [Intigriti’s 0521 XSS 挑戰解法：限定字元組合程式碼](https://github.com/aszx87410/blog/issues/79)  
