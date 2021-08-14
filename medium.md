@@ -6,6 +6,9 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-08-10` [我把我的青春給你——在 TechBridge 的這六年](https://hulitw.medium.com/techbridge-2ff7398a17ba)  
+`2021-07-30` [為什麼我們從 Medium 搬到自建部落格？](https://medium.com/cymetrics/why-we-left-medium-512b14207cdf)  
+`2021-07-09` [為什麼忘記密碼時只能重設，不把舊密碼告訴我？](https://medium.com/cymetrics/why-only-reset-password-not-retrieve-password-aa7cfb8699f1)  
 `2021-06-25` [簡單介紹發布 Medium 文章前可以改的東西](https://hulitw.medium.com/update-settings-before-publish-on-medium-d2993706a9b0)  
 `2021-06-05` [暫別前端，重新開始](https://hulitw.medium.com/byebye-front-end-hi-security-fda6be0cb7ce)  
 `2021-04-03` [非同步溝通](https://hulitw.medium.com/async-communication-f786eb49a1da)  
@@ -113,6 +116,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 技術相關
 
+`2021-07-09` [為什麼忘記密碼時只能重設，不把舊密碼告訴我？](https://medium.com/cymetrics/why-only-reset-password-not-retrieve-password-aa7cfb8699f1)  
 `2020-06-25` [從博物館寄物櫃理解變數儲存模型](https://medium.com/@hulitw/variable-and-frontdesk-a53a0440af3c)  
 `2019-09-25` [從傳紙條輕鬆學習基本網路概念](https://medium.com/@hulitw/learning-tcp-ip-http-via-sending-letter-5d3299203660)  
 `2019-08-09` [白話 Session 與 Cookie：從經營雜貨店開始](https://medium.com/@hulitw/session-and-cookie-15e47ed838bc)  
@@ -215,6 +219,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2021-08-10` [我把我的青春給你——在 TechBridge 的這六年](https://hulitw.medium.com/techbridge-2ff7398a17ba)  
+`2021-07-30` [為什麼我們從 Medium 搬到自建部落格？](https://medium.com/cymetrics/why-we-left-medium-512b14207cdf)  
 `2021-04-03` [非同步溝通](https://hulitw.medium.com/async-communication-f786eb49a1da)  
 `2021-02-13` [只是想寫一下](https://hulitw.medium.com/happy-new-year-moo-e0e0ac5130e2)  
 `2021-01-03` [線上課程平台 Teachable 介紹與使用心得](https://hulitw.medium.com/teachable-introduction-and-review-ca3946e9a1e1)  
