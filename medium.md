@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-09-04` [來談談工程師的知識焦慮](https://hulitw.medium.com/what-to-learn-b85ee24c3e8)  
 `2021-08-10` [我把我的青春給你——在 TechBridge 的這六年](https://hulitw.medium.com/techbridge-2ff7398a17ba)  
 `2021-07-30` [為什麼我們從 Medium 搬到自建部落格？](https://medium.com/cymetrics/why-we-left-medium-512b14207cdf)  
 `2021-07-09` [為什麼忘記密碼時只能重設，不把舊密碼告訴我？](https://medium.com/cymetrics/why-only-reset-password-not-retrieve-password-aa7cfb8699f1)  
@@ -142,6 +143,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 學習相關
 
+`2021-09-04` [來談談工程師的知識焦慮](https://hulitw.medium.com/what-to-learn-b85ee24c3e8)  
 `2020-09-07` [讀了之後心有戚戚焉的《下班後1小時的極速學習攻略》](https://medium.com/@hulitw/learning-how-to-learn-7c92be9b72fa)  
 `2020-07-22` [那些可以問得更好的程式問題](https://medium.com/@hulitw/ask-better-questions-19f01b02f436)  
 `2020-04-19` [打造「正確」學習 mindset](https://medium.com/@hulitw/mindset-36c163303217)  
