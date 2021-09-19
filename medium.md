@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-09-18` [那些印象深刻的經歷](https://hulitw.medium.com/experience-f37004cf80ff)  
 `2021-09-10` [那些人生中的轉折](https://hulitw.medium.com/when-i-got-sg-offer-e4d91856bd96)  
 `2021-09-04` [來談談工程師的知識焦慮](https://hulitw.medium.com/what-to-learn-b85ee24c3e8)  
 `2021-08-10` [我把我的青春給你——在 TechBridge 的這六年](https://hulitw.medium.com/techbridge-2ff7398a17ba)  
@@ -222,6 +223,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2021-09-18` [那些印象深刻的經歷](https://hulitw.medium.com/experience-f37004cf80ff)  
 `2021-09-10` [那些人生中的轉折](https://hulitw.medium.com/when-i-got-sg-offer-e4d91856bd96)  
 `2021-08-10` [我把我的青春給你——在 TechBridge 的這六年](https://hulitw.medium.com/techbridge-2ff7398a17ba)  
 `2021-07-30` [為什麼我們從 Medium 搬到自建部落格？](https://medium.com/cymetrics/why-we-left-medium-512b14207cdf)  
