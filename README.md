@@ -23,6 +23,8 @@
 
 ## 依時間排序
 
+`2021-09-26`  [在做跳轉功能時應該注意的問題：Open Redirect ](https://github.com/aszx87410/blog/issues/87)  
+`2021-09-26`  [不識廬山真面目：Clickjacking 點擊劫持攻擊](https://github.com/aszx87410/blog/issues/86)  
 `2021-08-22`  [除了 hexo，也可以考慮用 eleventy 來寫技術部落格](https://github.com/aszx87410/blog/issues/85)  
 `2021-08-22`  [從 cdnjs 的漏洞來看前端的供應鏈攻擊與防禦](https://github.com/aszx87410/blog/issues/84)  
 `2021-08-06`  [Intigriti 七月份 XSS 挑戰：突破層層關卡](https://github.com/aszx87410/blog/issues/83)  
@@ -119,6 +121,8 @@
 ## 依分類排序
 
 ## Security
+`2021-09-26`  [在做跳轉功能時應該注意的問題：Open Redirect ](https://github.com/aszx87410/blog/issues/87)  
+`2021-09-26`  [不識廬山真面目：Clickjacking 點擊劫持攻擊](https://github.com/aszx87410/blog/issues/86)  
 `2021-08-22`  [從 cdnjs 的漏洞來看前端的供應鏈攻擊與防禦](https://github.com/aszx87410/blog/issues/84)  
 `2021-08-06`  [Intigriti 七月份 XSS 挑戰：突破層層關卡](https://github.com/aszx87410/blog/issues/83)  
 `2021-07-10`  [利用 Cookie 特性進行的 DoS 攻擊：Cookie 炸彈](https://github.com/aszx87410/blog/issues/82)  
