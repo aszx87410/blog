@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-10-02` [對於教學的反思](https://hulitw.medium.com/teaching-reflection-a1cbf3ae1997)  
 `2021-09-18` [那些印象深刻的經歷](https://hulitw.medium.com/experience-f37004cf80ff)  
 `2021-09-10` [那些人生中的轉折](https://hulitw.medium.com/when-i-got-sg-offer-e4d91856bd96)  
 `2021-09-04` [來談談工程師的知識焦慮](https://hulitw.medium.com/what-to-learn-b85ee24c3e8)  
@@ -145,6 +146,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 學習相關
 
+`2021-10-02` [對於教學的反思](https://hulitw.medium.com/teaching-reflection-a1cbf3ae1997)  
 `2021-09-04` [來談談工程師的知識焦慮](https://hulitw.medium.com/what-to-learn-b85ee24c3e8)  
 `2020-09-07` [讀了之後心有戚戚焉的《下班後1小時的極速學習攻略》](https://medium.com/@hulitw/learning-how-to-learn-7c92be9b72fa)  
 `2020-07-22` [那些可以問得更好的程式問題](https://medium.com/@hulitw/ask-better-questions-19f01b02f436)  
