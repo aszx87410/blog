@@ -6,6 +6,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-10-31` [想變成的模樣](https://medium.com/p/%E6%83%B3%E8%AE%8A%E6%88%90%E7%9A%84%E6%A8%A1%E6%A8%A3-f24dca839d27)  
+`2021-10-24` [在 Medium 上寫技術文章，你確定嗎？](https://medium.com/p/%E5%9C%A8-medium-%E4%B8%8A%E5%AF%AB%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0-%E4%BD%A0%E7%A2%BA%E5%AE%9A%E5%97%8E-3dd25640f26c)  
 `2021-10-10` [服務對外但需要登入，能有什麼風險嗎？](https://medium.com/p/%E6%9C%8D%E5%8B%99%E5%B0%8D%E5%A4%96%E4%BD%86%E9%9C%80%E8%A6%81%E7%99%BB%E5%85%A5-%E8%83%BD%E6%9C%89%E4%BB%80%E9%BA%BC%E9%A2%A8%E9%9A%AA%E5%97%8E-a873d3418d99)  
 `2021-10-02` [對於教學的反思](https://hulitw.medium.com/teaching-reflection-a1cbf3ae1997)  
 `2021-09-18` [那些印象深刻的經歷](https://hulitw.medium.com/experience-f37004cf80ff)  
@@ -200,6 +202,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 寫作相關
 
+`2021-10-24` [在 Medium 上寫技術文章，你確定嗎？](https://medium.com/p/%E5%9C%A8-medium-%E4%B8%8A%E5%AF%AB%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0-%E4%BD%A0%E7%A2%BA%E5%AE%9A%E5%97%8E-3dd25640f26c)  
 `2021-06-25` [簡單介紹發布 Medium 文章前可以改的東西](https://hulitw.medium.com/update-settings-before-publish-on-medium-d2993706a9b0)  
 `2020-01-28` [寫技術部落格不需要那麼大費周章](https://medium.com/@hulitw/tech-blog-coderbridge-to-the-rescue-2ba5b52d8bcd)  
 `2019-11-17` [Medium 經營兩週年之隨意回顧](https://medium.com/@hulitw/two-year-review-e029ac415a12)  
@@ -227,6 +230,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2021-10-31` [想變成的模樣](https://medium.com/p/%E6%83%B3%E8%AE%8A%E6%88%90%E7%9A%84%E6%A8%A1%E6%A8%A3-f24dca839d27)  
 `2021-09-18` [那些印象深刻的經歷](https://hulitw.medium.com/experience-f37004cf80ff)  
 `2021-09-10` [那些人生中的轉折](https://hulitw.medium.com/when-i-got-sg-offer-e4d91856bd96)  
 `2021-08-10` [我把我的青春給你——在 TechBridge 的這六年](https://hulitw.medium.com/techbridge-2ff7398a17ba)  
