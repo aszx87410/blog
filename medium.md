@@ -6,6 +6,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2021-11-14` [從自身經驗談談職涯上的選擇](https://medium.com/@hulitw/i-dont-know-how-to-choose-job-6e38534786e4)  
 `2021-10-31` [想變成的模樣](https://medium.com/p/%E6%83%B3%E8%AE%8A%E6%88%90%E7%9A%84%E6%A8%A1%E6%A8%A3-f24dca839d27)  
 `2021-10-24` [在 Medium 上寫技術文章，你確定嗎？](https://medium.com/p/%E5%9C%A8-medium-%E4%B8%8A%E5%AF%AB%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0-%E4%BD%A0%E7%A2%BA%E5%AE%9A%E5%97%8E-3dd25640f26c)  
 `2021-10-10` [服務對外但需要登入，能有什麼風險嗎？](https://medium.com/p/%E6%9C%8D%E5%8B%99%E5%B0%8D%E5%A4%96%E4%BD%86%E9%9C%80%E8%A6%81%E7%99%BB%E5%85%A5-%E8%83%BD%E6%9C%89%E4%BB%80%E9%BA%BC%E9%A2%A8%E9%9A%AA%E5%97%8E-a873d3418d99)  
@@ -134,6 +135,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2021-11-14` [從自身經驗談談職涯上的選擇](https://medium.com/@hulitw/i-dont-know-how-to-choose-job-6e38534786e4)  
 `2021-06-05` [暫別前端，重新開始](https://hulitw.medium.com/byebye-front-end-hi-security-fda6be0cb7ce)  
 `2020-12-08` [金融保險科技公司 OneDegree 工作半年心得](https://hulitw.medium.com/working-at-onedegree-378a0401130e)  
 `2020-11-15` [我心目中的理想徵才文](https://hulitw.medium.com/my-ideal-job-description-d72ec9cf5d0e)  
