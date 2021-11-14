@@ -23,6 +23,7 @@
 
 ## 依時間排序
 
+`2021-11-14`  [從 Intigriti 十月份 XSS 挑戰重新學習 HTML](https://github.com/aszx87410/blog/issues/91)  
 `2021-11-13`  [接觸資安才發現我不懂前端](https://github.com/aszx87410/blog/issues/90)  
 `2021-11-13`  [XSS 從頭談起：歷史與由來](https://github.com/aszx87410/blog/issues/89)  
 `2021-11-13`  [基於 JS 原型鏈的攻擊手法：Prototype Pollution](https://github.com/aszx87410/blog/issues/88)   
@@ -124,6 +125,7 @@
 ## 依分類排序
 
 ## Security
+`2021-11-14`  [從 Intigriti 十月份 XSS 挑戰重新學習 HTML](https://github.com/aszx87410/blog/issues/91)  
 `2021-11-13`  [接觸資安才發現我不懂前端](https://github.com/aszx87410/blog/issues/90)   
 `2021-11-13`  [XSS 從頭談起：歷史與由來](https://github.com/aszx87410/blog/issues/89)   
 `2021-11-13`  [基於 JS 原型鏈的攻擊手法：Prototype Pollution](https://github.com/aszx87410/blog/issues/88)   
