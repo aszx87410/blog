@@ -16,6 +16,8 @@
 
 我把放很久但沒寫的 idea 都放在這了，有想看到哪個主題的話可以按個 upvote 或是留言：https://github.com/aszx87410/blog/discussions/92
 
+現在資安相關文章第一時間都會先發到 [Cymetrics Tech Blog](https://tech-blog.cymetrics.io)，過一陣子才會同步到這裡來
+
 ### 2019-09-25 更新
 
 因為 GitHub Issues 的 SEO 實在是太爛了，最後還是決定搬回去 hexo，很幸運地找到了一個我很喜歡的版型  
@@ -26,6 +28,10 @@
 # 文章列表
 
 ## 依時間排序
+
+`2022-01-07` [有缺陷的重設密碼機制如何演變成帳號奪取漏洞？以 Matters 為例](https://github.com/aszx87410/blog/issues/94)  
+`2022-01-07` [從監視攝影機理解 Log4j 跟 Log4Shell 漏洞](https://github.com/aszx87410/blog/issues/93)  
+`2022-01-07` [CPSA(CREST Practitioner Security Analyst) 資安分析師考試心得](https://github.com/aszx87410/blog/issues/92)  
 
 `2021-11-14`  [從 Intigriti 十月份 XSS 挑戰重新學習 HTML](https://github.com/aszx87410/blog/issues/91)  
 `2021-11-13`  [接觸資安才發現我不懂前端](https://github.com/aszx87410/blog/issues/90)  
