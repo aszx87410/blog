@@ -29,6 +29,7 @@
 
 ## 依時間排序
 
+`2022-01-16` [忍術！把 same site 變 same origin 之術！](https://github.com/aszx87410/blog/issues/96)  
 `2022-01-15` [從歷史開始認識 JavaScript](https://github.com/aszx87410/blog/issues/95)  
 `2022-01-07` [有缺陷的重設密碼機制如何演變成帳號奪取漏洞？以 Matters 為例](https://github.com/aszx87410/blog/issues/94)  
 `2022-01-07` [從監視攝影機理解 Log4j 跟 Log4Shell 漏洞](https://github.com/aszx87410/blog/issues/93)  
