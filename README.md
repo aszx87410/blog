@@ -16,6 +16,8 @@
 
 我把放很久但沒寫的 idea 都放在這了，有想看到哪個主題的話可以按個 upvote 或是留言：https://github.com/aszx87410/blog/discussions/92
 
+想追蹤最新文章動態可以看這個粉專：[Huli 隨意聊](https://www.facebook.com/huli.blog)  
+
 現在資安相關文章第一時間都會先發到 [Cymetrics Tech Blog](https://tech-blog.cymetrics.io)，過一陣子才會同步到這裡來
 
 ### 2019-09-25 更新
