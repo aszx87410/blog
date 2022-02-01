@@ -242,6 +242,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2022-02-01` [矛盾大對決](https://hulitw.medium.com/know-yourself-8ac86e6ca2b9)  
 `2021-10-31` [想變成的模樣](https://medium.com/p/%E6%83%B3%E8%AE%8A%E6%88%90%E7%9A%84%E6%A8%A1%E6%A8%A3-f24dca839d27)  
 `2021-09-18` [那些印象深刻的經歷](https://hulitw.medium.com/experience-f37004cf80ff)  
 `2021-09-10` [那些人生中的轉折](https://hulitw.medium.com/when-i-got-sg-offer-e4d91856bd96)  
