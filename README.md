@@ -31,6 +31,7 @@
 
 ## 依時間排序
 
+`2022-02-02` [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
 `2022-01-30` [你知道的 JavaScript 知識都有可能是錯的](https://github.com/aszx87410/blog/issues/105)  
 `2022-01-16` [忍術！把 same site 變 same origin 之術！](https://github.com/aszx87410/blog/issues/96)  
 `2022-01-15` [從歷史開始認識 JavaScript](https://github.com/aszx87410/blog/issues/95)  
@@ -186,6 +187,7 @@
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 
 ### 前端相關
+`2022-02-02` [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
 `2021-06-12`  [用 Paged.js 做出適合印成 PDF 的 HTML 網頁](https://github.com/aszx87410/blog/issues/80)  
 `2021-04-17`  [寫一個簡單堪用的 ESLint plugin](https://github.com/aszx87410/blog/issues/76)  
 `2021-03-20`  [一些不太好記卻很好用的 CSS 屬性](https://github.com/aszx87410/blog/issues/75)  
