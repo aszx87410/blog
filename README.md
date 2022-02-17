@@ -31,6 +31,7 @@
 
 ## 依時間排序
 
+`2022-02-17` [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
 `2022-02-02` [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
 `2022-01-30` [你知道的 JavaScript 知識都有可能是錯的](https://github.com/aszx87410/blog/issues/105)  
 `2022-01-16` [忍術！把 same site 變 same origin 之術！](https://github.com/aszx87410/blog/issues/96)  
@@ -141,6 +142,7 @@
 ## 依分類排序
 
 ## Security
+`2022-02-17` [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
 `2021-11-14`  [從 Intigriti 十月份 XSS 挑戰重新學習 HTML](https://github.com/aszx87410/blog/issues/91)  
 `2021-11-13`  [接觸資安才發現我不懂前端](https://github.com/aszx87410/blog/issues/90)   
 `2021-11-13`  [XSS 從頭談起：歷史與由來](https://github.com/aszx87410/blog/issues/89)   
