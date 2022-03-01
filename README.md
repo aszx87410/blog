@@ -31,6 +31,7 @@
 
 ## 依時間排序
 
+`2022-03-01` [來數數 JavaScript 的所有資料型別](https://github.com/aszx87410/blog/issues/109)  
 `2022-02-17` [從「為什麼不能用這個函式」談執行環境（runtime）](https://github.com/aszx87410/blog/issues/108)  
 `2022-02-17` [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
 `2022-02-02` [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
@@ -143,7 +144,7 @@
 ## 依分類排序
 
 ## Security
-`2022-02-17` [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
+`2022-02-17`  [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
 `2021-11-14`  [從 Intigriti 十月份 XSS 挑戰重新學習 HTML](https://github.com/aszx87410/blog/issues/91)  
 `2021-11-13`  [接觸資安才發現我不懂前端](https://github.com/aszx87410/blog/issues/90)   
 `2021-11-13`  [XSS 從頭談起：歷史與由來](https://github.com/aszx87410/blog/issues/89)   
@@ -161,7 +162,8 @@
 `2020-01-23`  [淺談 DOM Clobbering 的原理及應用](https://github.com/aszx87410/blog/issues/67)  
 
 ### JavaScript
-`2022-01-30` [你知道的 JavaScript 知識都有可能是錯的](https://github.com/aszx87410/blog/issues/105)  
+`2022-03-01`  [來數數 JavaScript 的所有資料型別](https://github.com/aszx87410/blog/issues/109)  
+`2022-01-30`  [你知道的 JavaScript 知識都有可能是錯的](https://github.com/aszx87410/blog/issues/105)  
 `2020-12-29`  [淺談 JavaScript 中的時間與時區處理](https://github.com/aszx87410/blog/issues/66)  
 `2020-12-01`  [如何不用英文字母與數字寫出 console.log(1)？](https://github.com/aszx87410/blog/issues/65)  
 `2020-04-18`  [覺得 JavaScript function 很有趣的我是不是很奇怪](https://github.com/aszx87410/blog/issues/57)  
@@ -190,7 +192,7 @@
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 
 ### 前端相關
-`2022-02-02` [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
+`2022-02-02`  [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
 `2021-06-12`  [用 Paged.js 做出適合印成 PDF 的 HTML 網頁](https://github.com/aszx87410/blog/issues/80)  
 `2021-04-17`  [寫一個簡單堪用的 ESLint plugin](https://github.com/aszx87410/blog/issues/76)  
 `2021-03-20`  [一些不太好記卻很好用的 CSS 屬性](https://github.com/aszx87410/blog/issues/75)  
