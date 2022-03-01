@@ -31,6 +31,7 @@
 
 ## 依時間排序
 
+`2022-03-01` [SUSCTF 2022 Writeup](https://github.com/aszx87410/blog/issues/110)  
 `2022-03-01` [來數數 JavaScript 的所有資料型別](https://github.com/aszx87410/blog/issues/109)  
 `2022-02-17` [從「為什麼不能用這個函式」談執行環境（runtime）](https://github.com/aszx87410/blog/issues/108)  
 `2022-02-17` [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
@@ -144,6 +145,7 @@
 ## 依分類排序
 
 ## Security
+`2022-03-01` [SUSCTF 2022 Writeup](https://github.com/aszx87410/blog/issues/110)  
 `2022-02-17`  [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
 `2021-11-14`  [從 Intigriti 十月份 XSS 挑戰重新學習 HTML](https://github.com/aszx87410/blog/issues/91)  
 `2021-11-13`  [接觸資安才發現我不懂前端](https://github.com/aszx87410/blog/issues/90)   
