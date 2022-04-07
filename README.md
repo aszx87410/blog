@@ -31,6 +31,7 @@
 
 ## 依時間排序
 
+`2022-04-07` [LINE CTF 2022 筆記](https://github.com/aszx87410/blog/issues/113)  
 `2022-03-21` [使用 JavaScript 的數字時的常見錯誤](https://github.com/aszx87410/blog/issues/112)  
 `2022-03-02` [TSJ CTF 2022 - web/Nim Notes 筆記](https://github.com/aszx87410/blog/issues/111)  
 `2022-03-01` [SUSCTF 2022 Writeup](https://github.com/aszx87410/blog/issues/110)  
@@ -147,7 +148,8 @@
 ## 依分類排序
 
 ## Security
-`2022-03-01` [SUSCTF 2022 Writeup](https://github.com/aszx87410/blog/issues/110)  
+`2022-04-07`  [LINE CTF 2022 筆記](https://github.com/aszx87410/blog/issues/113)  
+`2022-03-01`  [SUSCTF 2022 Writeup](https://github.com/aszx87410/blog/issues/110)  
 `2022-02-17`  [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
 `2021-11-14`  [從 Intigriti 十月份 XSS 挑戰重新學習 HTML](https://github.com/aszx87410/blog/issues/91)  
 `2021-11-13`  [接觸資安才發現我不懂前端](https://github.com/aszx87410/blog/issues/90)   
