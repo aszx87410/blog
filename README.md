@@ -31,6 +31,8 @@
 
 ## 依時間排序
 
+`2022-04-11` [picoCTF 2022 筆記](https://github.com/aszx87410/blog/issues/115)  
+`2022-04-11` [iframe 與 window.open 黑魔法](https://github.com/aszx87410/blog/issues/114)  
 `2022-04-07` [LINE CTF 2022 筆記](https://github.com/aszx87410/blog/issues/113)  
 `2022-03-21` [使用 JavaScript 的數字時的常見錯誤](https://github.com/aszx87410/blog/issues/112)  
 `2022-03-02` [TSJ CTF 2022 - web/Nim Notes 筆記](https://github.com/aszx87410/blog/issues/111)  
@@ -148,6 +150,8 @@
 ## 依分類排序
 
 ## Security
+`2022-04-11` [picoCTF 2022 筆記](https://github.com/aszx87410/blog/issues/115)  
+`2022-04-11` [iframe 與 window.open 黑魔法](https://github.com/aszx87410/blog/issues/114)  
 `2022-04-07`  [LINE CTF 2022 筆記](https://github.com/aszx87410/blog/issues/113)  
 `2022-03-01`  [SUSCTF 2022 Writeup](https://github.com/aszx87410/blog/issues/110)  
 `2022-02-17`  [我從 DiceCTF 2022 中學到的各種 JS 與前端冷知識](https://github.com/aszx87410/blog/issues/107)  
