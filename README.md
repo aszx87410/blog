@@ -1,4 +1,6 @@
-# 簡介
+# About
+
+(Here is the blog in English: [https://blog.huli.tw/en/](https://blog.huli.tw/en/))
 
 從 2014 年 3 月 17 開始，在 logdown 開設了一個 [Huli's Blog](http://huli.logdown.com/)，內容多為技術相關文章，偶爾混雜生活記事與旅遊心得，一直經營到 2017 年 6 月，因為 logdown 逐漸沒人維護所以開始尋找新的棲息地。
 
@@ -35,6 +37,8 @@
 
 ## 依時間排序
 
+`2022-07-08` [DEF CON CTF 2022 Qualifier 筆記](https://github.com/aszx87410/blog/issues/121)  
+`2022-07-08` [淺談 Atomic CSS 的發展背景與 Tailwind CSS](https://github.com/aszx87410/blog/issues/120)  
 `2022-05-22` [m0leCon CTF 2022 筆記](https://github.com/aszx87410/blog/issues/119)  
 `2022-05-22` [ångstromCTF 2022 筆記](https://github.com/aszx87410/blog/issues/118)  
 `2022-05-22` [script type 知多少？](https://github.com/aszx87410/blog/issues/117)  
@@ -158,6 +162,7 @@
 ## 依分類排序
 
 ## Security
+`2022-07-08` [DEF CON CTF 2022 Qualifier 筆記](https://github.com/aszx87410/blog/issues/121)  
 `2022-05-22` [m0leCon CTF 2022 筆記](https://github.com/aszx87410/blog/issues/119)  
 `2022-05-22` [ångstromCTF 2022 筆記](https://github.com/aszx87410/blog/issues/118)  
 `2022-05-22` [script type 知多少？](https://github.com/aszx87410/blog/issues/117)  
@@ -214,6 +219,7 @@
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 
 ### 前端相關
+`2022-07-08` [淺談 Atomic CSS 的發展背景與 Tailwind CSS](https://github.com/aszx87410/blog/issues/120)  
 `2022-02-02`  [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
 `2021-06-12`  [用 Paged.js 做出適合印成 PDF 的 HTML 網頁](https://github.com/aszx87410/blog/issues/80)  
 `2021-04-17`  [寫一個簡單堪用的 ESLint plugin](https://github.com/aszx87410/blog/issues/76)  
