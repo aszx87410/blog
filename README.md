@@ -37,6 +37,8 @@
 
 ## 依時間排序
 
+`2022-07-09` [GoogleCTF 2022 筆記](https://github.com/aszx87410/blog/issues/123)  
+`2022-07-09` [justCTF 2022 筆記](https://github.com/aszx87410/blog/issues/122)  
 `2022-07-08` [DEF CON CTF 2022 Qualifier 筆記](https://github.com/aszx87410/blog/issues/121)  
 `2022-07-08` [淺談 Atomic CSS 的發展背景與 Tailwind CSS](https://github.com/aszx87410/blog/issues/120)  
 `2022-05-22` [m0leCon CTF 2022 筆記](https://github.com/aszx87410/blog/issues/119)  
@@ -162,6 +164,8 @@
 ## 依分類排序
 
 ## Security
+`2022-07-09` [GoogleCTF 2022 筆記](https://github.com/aszx87410/blog/issues/123)  
+`2022-07-09` [justCTF 2022 筆記](https://github.com/aszx87410/blog/issues/122)  
 `2022-07-08` [DEF CON CTF 2022 Qualifier 筆記](https://github.com/aszx87410/blog/issues/121)  
 `2022-05-22` [m0leCon CTF 2022 筆記](https://github.com/aszx87410/blog/issues/119)  
 `2022-05-22` [ångstromCTF 2022 筆記](https://github.com/aszx87410/blog/issues/118)  
