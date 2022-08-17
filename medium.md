@@ -8,6 +8,10 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2022-08-17` [DEF CON 30 CTF final 遊記（下）](https://hulitw.medium.com/def-con-30-ctf-final-3-e19eeeed8e44)  
+`2022-08-16` [DEF CON 30 CTF final 遊記（中）](https://hulitw.medium.com/def-con-30-ctf-final-2-4444cf3645e)  
+`2022-08-16` [DEF CON 30 CTF final 遊記（上）](https://hulitw.medium.com/def-con-30-ctf-final-1-79220bba7f02)  
+`2022-07-23` [2022 年 7 月出國旅遊心得（星宇航空 TPE-SIN）](https://hulitw.medium.com/2022-07-tpe-sin-travel-92e5363560c1)  
 `2022-05-21` [為什麼打開檔案時會看到亂碼？跟著小明一起從傳紙條學習編碼](https://hulitw.medium.com/what-is-encoding-ascii-unicode-utf8-5fe55a98bee0)  
 `2022-02-21` [我與睡眠呼吸中止症——它跟你想的可能不同](https://hulitw.medium.com/sleep-apnea-and-i-176d197dbb4a)  
 `2022-02-01` [矛盾大對決](https://hulitw.medium.com/know-yourself-8ac86e6ca2b9)  
@@ -238,6 +242,10 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 旅遊相關
 
+`2022-08-17` [DEF CON 30 CTF final 遊記（下）](https://hulitw.medium.com/def-con-30-ctf-final-3-e19eeeed8e44)  
+`2022-08-16` [DEF CON 30 CTF final 遊記（中）](https://hulitw.medium.com/def-con-30-ctf-final-2-4444cf3645e)  
+`2022-08-16` [DEF CON 30 CTF final 遊記（上）](https://hulitw.medium.com/def-con-30-ctf-final-1-79220bba7f02)  
+`2022-07-23` [2022 年 7 月出國旅遊心得（星宇航空 TPE-SIN）](https://hulitw.medium.com/2022-07-tpe-sin-travel-92e5363560c1)  
 `2019-10-31` [旅行的意義（下）：寫在遊阿布達比、歐洲與韓國後](https://medium.com/@hulitw/travel-part2-818482a90bc9)  
 `2019-10-14` [EY876 AUH-ICN A380 阿提哈德頭等艙體驗心得](https://medium.com/@hulitw/etihad-a380-auh-icn-first-class-352fdbbc08db)  
 `2019-07-14` [旅行的意義（上）：寫在遊日本、越南與美國後](https://medium.com/@hulitw/travel-part1-46e50a306467)  
