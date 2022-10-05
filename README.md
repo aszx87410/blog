@@ -1,6 +1,6 @@
 # About
 
-(Here is the blog in English: [https://blog.huli.tw/en/](https://blog.huli.tw/en/))
+Here is a git repository for the backup and index of my blog, you can find the blog in English here: [https://blog.huli.tw/en/](https://blog.huli.tw/en/)
 
 從 2014 年 3 月 17 開始，在 logdown 開設了一個 [Huli's Blog](http://huli.logdown.com/)，內容多為技術相關文章，偶爾混雜生活記事與旅遊心得，一直經營到 2017 年 6 月，因為 logdown 逐漸沒人維護所以開始尋找新的棲息地。
 
@@ -37,6 +37,9 @@
 
 ## 依時間排序
 
+`2022-10-05` [用 CSS 來偷資料 - CSS injection（下）](https://github.com/aszx87410/blog/issues/127)  
+`2022-10-05` [用 CSS 來偷資料 - CSS injection（上）](https://github.com/aszx87410/blog/issues/126)  
+`2022-10-05` [自動化尋找 AngularJS CSP Bypass 中 prototype.js 的替代品](https://github.com/aszx87410/blog/issues/125)  
 `2022-08-03` [UIUCTF 2022 筆記](https://github.com/aszx87410/blog/issues/124)  
 `2022-07-09` [GoogleCTF 2022 筆記](https://github.com/aszx87410/blog/issues/123)  
 `2022-07-09` [justCTF 2022 筆記](https://github.com/aszx87410/blog/issues/122)  
