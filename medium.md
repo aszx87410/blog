@@ -8,6 +8,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2022-11-08` [近況更新：轉職資安的一年後](https://hulitw.medium.com/2022-updates-e2a3ae1c9a2e)  
 `2022-08-17` [DEF CON 30 CTF final 遊記（下）](https://hulitw.medium.com/def-con-30-ctf-final-3-e19eeeed8e44)  
 `2022-08-16` [DEF CON 30 CTF final 遊記（中）](https://hulitw.medium.com/def-con-30-ctf-final-2-4444cf3645e)  
 `2022-08-16` [DEF CON 30 CTF final 遊記（上）](https://hulitw.medium.com/def-con-30-ctf-final-1-79220bba7f02)  
@@ -150,6 +151,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2022-11-08` [近況更新：轉職資安的一年後](https://hulitw.medium.com/2022-updates-e2a3ae1c9a2e)  
 `2022-01-22` [從「如果我離職…」的角度思考工作](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)  
 `2021-11-14` [從自身經驗談談職涯上的選擇](https://medium.com/@hulitw/i-dont-know-how-to-choose-job-6e38534786e4)  
 `2021-06-05` [暫別前端，重新開始](https://hulitw.medium.com/byebye-front-end-hi-security-fda6be0cb7ce)  
