@@ -37,6 +37,8 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ## 依時間排序
 
+`2022-12-08` [Hack. lu CTF 2022 筆記](https://github.com/aszx87410/blog/issues/129)  
+`2022-12-08` [SekaiCTF 2022 筆記與 concurrent limit](https://github.com/aszx87410/blog/issues/128)  
 `2022-10-05` [用 CSS 來偷資料 - CSS injection（下）](https://github.com/aszx87410/blog/issues/127)  
 `2022-10-05` [用 CSS 來偷資料 - CSS injection（上）](https://github.com/aszx87410/blog/issues/126)  
 `2022-10-05` [自動化尋找 AngularJS CSP Bypass 中 prototype.js 的替代品](https://github.com/aszx87410/blog/issues/125)  
@@ -168,6 +170,11 @@ Here is a git repository for the backup and index of my blog, you can find the b
 ## 依分類排序
 
 ## Security
+`2022-12-08` [Hack. lu CTF 2022 筆記](https://github.com/aszx87410/blog/issues/129)  
+`2022-12-08` [SekaiCTF 2022 筆記與 concurrent limit](https://github.com/aszx87410/blog/issues/128)  
+`2022-10-05` [用 CSS 來偷資料 - CSS injection（下）](https://github.com/aszx87410/blog/issues/127)  
+`2022-10-05` [用 CSS 來偷資料 - CSS injection（上）](https://github.com/aszx87410/blog/issues/126)  
+`2022-10-05` [自動化尋找 AngularJS CSP Bypass 中 prototype.js 的替代品](https://github.com/aszx87410/blog/issues/125)  
 `2022-08-03` [UIUCTF 2022 筆記](https://github.com/aszx87410/blog/issues/124)  
 `2022-07-09` [GoogleCTF 2022 筆記](https://github.com/aszx87410/blog/issues/123)  
 `2022-07-09` [justCTF 2022 筆記](https://github.com/aszx87410/blog/issues/122)  
