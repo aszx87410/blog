@@ -37,6 +37,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ## 依時間排序
 
+`2022-12-26` [2022 年 CTF Web 前端與 JS 題總結](https://github.com/aszx87410/blog/issues/132)  
 `2022-12-26` [RCTF 2022 筆記](https://github.com/aszx87410/blog/issues/131)  
 `2022-12-08` [幾個與 Web 跟 JS 相關的 CTF 題目小記](https://github.com/aszx87410/blog/issues/130)  
 `2022-12-08` [Hack. lu CTF 2022 筆記](https://github.com/aszx87410/blog/issues/129)  
@@ -172,6 +173,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 ## 依分類排序
 
 ## Security
+`2022-12-26` [2022 年 CTF Web 前端與 JS 題總結](https://github.com/aszx87410/blog/issues/132)  
 `2022-12-26` [RCTF 2022 筆記](https://github.com/aszx87410/blog/issues/131)  
 `2022-12-08` [幾個與 Web 跟 JS 相關的 CTF 題目小記](https://github.com/aszx87410/blog/issues/130)  
 `2022-12-08` [Hack. lu CTF 2022 筆記](https://github.com/aszx87410/blog/issues/129)  
