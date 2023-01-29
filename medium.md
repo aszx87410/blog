@@ -8,6 +8,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2022-12-28` [長榮外站出發日本便宜機票購買心得](https://hulitw.medium.com/cheap-eva-air-ticket-taipei-to-japan-116cc1d68804)  
+`2022-12-18` [你過得太安逸了](https://hulitw.medium.com/you-live-too-comfortably-de6b51fa9875)  
 `2022-11-08` [近況更新：轉職資安的一年後](https://hulitw.medium.com/2022-updates-e2a3ae1c9a2e)  
 `2022-08-17` [DEF CON 30 CTF final 遊記（下）](https://hulitw.medium.com/def-con-30-ctf-final-3-e19eeeed8e44)  
 `2022-08-16` [DEF CON 30 CTF final 遊記（中）](https://hulitw.medium.com/def-con-30-ctf-final-2-4444cf3645e)  
@@ -244,6 +246,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 旅遊相關
 
+`2022-12-28` [長榮外站出發日本便宜機票購買心得](https://hulitw.medium.com/cheap-eva-air-ticket-taipei-to-japan-116cc1d68804)  
 `2022-08-17` [DEF CON 30 CTF final 遊記（下）](https://hulitw.medium.com/def-con-30-ctf-final-3-e19eeeed8e44)  
 `2022-08-16` [DEF CON 30 CTF final 遊記（中）](https://hulitw.medium.com/def-con-30-ctf-final-2-4444cf3645e)  
 `2022-08-16` [DEF CON 30 CTF final 遊記（上）](https://hulitw.medium.com/def-con-30-ctf-final-1-79220bba7f02)  
@@ -255,6 +258,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2022-12-18` [你過得太安逸了](https://hulitw.medium.com/you-live-too-comfortably-de6b51fa9875)  
 `2022-02-21` [我與睡眠呼吸中止症——它跟你想的可能不同](https://hulitw.medium.com/sleep-apnea-and-i-176d197dbb4a)  
 `2022-02-01` [矛盾大對決](https://hulitw.medium.com/know-yourself-8ac86e6ca2b9)  
 `2021-10-31` [想變成的模樣](https://medium.com/p/%E6%83%B3%E8%AE%8A%E6%88%90%E7%9A%84%E6%A8%A1%E6%A8%A3-f24dca839d27)  
