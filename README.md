@@ -37,6 +37,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ## 依時間排序
 
+`2023-04-21` [零日文基本情報技術者與情報セキュリティマネジメント試験準備心得](https://github.com/aszx87410/blog/issues/136)  
 `2023-03-27` [LINE CTF 2023 筆記](https://github.com/aszx87410/blog/issues/135)  
 `2023-03-27` [DiceCTF 2023 筆記](https://github.com/aszx87410/blog/issues/134)  
 `2023-01-28` [網站前端打 API 時把密碼加密，有意義嗎？](https://github.com/aszx87410/blog/issues/133)  
@@ -300,6 +301,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ### 其他
 
+`2023-04-21` [零日文基本情報技術者與情報セキュリティマネジメント試験準備心得](https://github.com/aszx87410/blog/issues/136)  
 `2021-08-22`  [除了 hexo，也可以考慮用 eleventy 來寫技術部落格](https://github.com/aszx87410/blog/issues/85)  
 `2020-05-16`  [簡易 Regular Expression 入門指南](https://github.com/aszx87410/blog/issues/58)  
 `2020-03-23`  [自己架一個 Online Judge 系統](https://github.com/aszx87410/blog/issues/55)  
