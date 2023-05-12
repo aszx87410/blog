@@ -8,6 +8,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2023-05-12` [在加密貨幣世界工作 0.75 年後的感想](https://hulitw.medium.com/after-working-at-web3-industry-for-8-months-60954d84ff0e)  
+
 `2022-12-28` [長榮外站出發日本便宜機票購買心得](https://hulitw.medium.com/cheap-eva-air-ticket-taipei-to-japan-116cc1d68804)  
 `2022-12-18` [你過得太安逸了](https://hulitw.medium.com/you-live-too-comfortably-de6b51fa9875)  
 `2022-11-08` [近況更新：轉職資安的一年後](https://hulitw.medium.com/2022-updates-e2a3ae1c9a2e)  
@@ -153,6 +155,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2023-05-12` [在加密貨幣世界工作 0.75 年後的感想](https://hulitw.medium.com/after-working-at-web3-industry-for-8-months-60954d84ff0e)  
 `2022-11-08` [近況更新：轉職資安的一年後](https://hulitw.medium.com/2022-updates-e2a3ae1c9a2e)  
 `2022-01-22` [從「如果我離職…」的角度思考工作](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)  
 `2021-11-14` [從自身經驗談談職涯上的選擇](https://medium.com/@hulitw/i-dont-know-how-to-choose-job-6e38534786e4)  
