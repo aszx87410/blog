@@ -8,6 +8,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2023-05-16` [駭客的線上遊戲 CTF 遊玩兩年心得](https://hulitw.medium.com/after-playing-hacker-game-ctf-for-two-years-12dbfb6a3adb)  
 `2023-05-12` [在加密貨幣世界工作 0.75 年後的感想](https://hulitw.medium.com/after-working-at-web3-industry-for-8-months-60954d84ff0e)  
 
 `2022-12-28` [長榮外站出發日本便宜機票購買心得](https://hulitw.medium.com/cheap-eva-air-ticket-taipei-to-japan-116cc1d68804)  
@@ -261,6 +262,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2023-05-16` [駭客的線上遊戲 CTF 遊玩兩年心得](https://hulitw.medium.com/after-playing-hacker-game-ctf-for-two-years-12dbfb6a3adb)  
 `2022-12-18` [你過得太安逸了](https://hulitw.medium.com/you-live-too-comfortably-de6b51fa9875)  
 `2022-02-21` [我與睡眠呼吸中止症——它跟你想的可能不同](https://hulitw.medium.com/sleep-apnea-and-i-176d197dbb4a)  
 `2022-02-01` [矛盾大對決](https://hulitw.medium.com/know-yourself-8ac86e6ca2b9)  
