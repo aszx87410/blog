@@ -8,6 +8,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2023-05-26` [2023 日本北九州 19 天 18 夜遊記之九州怎麼這麼大](https://medium.com/@hulitw/2023-jp-travel-eed64a0cb3a0)  
 `2023-05-16` [駭客的線上遊戲 CTF 遊玩兩年心得](https://hulitw.medium.com/after-playing-hacker-game-ctf-for-two-years-12dbfb6a3adb)  
 `2023-05-12` [在加密貨幣世界工作 0.75 年後的感想](https://hulitw.medium.com/after-working-at-web3-industry-for-8-months-60954d84ff0e)  
 
@@ -250,6 +251,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 旅遊相關
 
+`2023-05-26` [2023 日本北九州 19 天 18 夜遊記之九州怎麼這麼大](https://medium.com/@hulitw/2023-jp-travel-eed64a0cb3a0)  
 `2022-12-28` [長榮外站出發日本便宜機票購買心得](https://hulitw.medium.com/cheap-eva-air-ticket-taipei-to-japan-116cc1d68804)  
 `2022-08-17` [DEF CON 30 CTF final 遊記（下）](https://hulitw.medium.com/def-con-30-ctf-final-3-e19eeeed8e44)  
 `2022-08-16` [DEF CON 30 CTF final 遊記（中）](https://hulitw.medium.com/def-con-30-ctf-final-2-4444cf3645e)  
