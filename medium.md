@@ -8,6 +8,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2023-07-27` [2023 年 7 月南韓十日遊心得：首爾篇](https://hulitw.medium.com/2023-july-korea-trip-seoul-92ba2d0608ff)  
+`2023-07-27` [2023 年 7 月南韓十日遊心得：釜山篇](https://hulitw.medium.com/2023-july-korea-trip-busan-a475e484e1fc)  
 `2023-07-01` [2023 年 6 月澳門三天兩夜小旅遊心得](https://hulitw.medium.com/2023-06-macau-travel-venetian-21687588b87d)  
 `2023-05-26` [2023 日本北九州 19 天 18 夜遊記之九州怎麼這麼大](https://medium.com/@hulitw/2023-jp-travel-eed64a0cb3a0)  
 `2023-05-16` [駭客的線上遊戲 CTF 遊玩兩年心得](https://hulitw.medium.com/after-playing-hacker-game-ctf-for-two-years-12dbfb6a3adb)  
@@ -252,6 +254,8 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 旅遊相關
 
+`2023-07-27` [2023 年 7 月南韓十日遊心得：首爾篇](https://hulitw.medium.com/2023-july-korea-trip-seoul-92ba2d0608ff)  
+`2023-07-27` [2023 年 7 月南韓十日遊心得：釜山篇](https://hulitw.medium.com/2023-july-korea-trip-busan-a475e484e1fc)  
 `2023-07-01` [2023 年 6 月澳門三天兩夜小旅遊心得](https://hulitw.medium.com/2023-06-macau-travel-venetian-21687588b87d)  
 `2023-05-26` [2023 日本北九州 19 天 18 夜遊記之九州怎麼這麼大](https://medium.com/@hulitw/2023-jp-travel-eed64a0cb3a0)  
 `2022-12-28` [長榮外站出發日本便宜機票購買心得](https://hulitw.medium.com/cheap-eva-air-ticket-taipei-to-japan-116cc1d68804)  
