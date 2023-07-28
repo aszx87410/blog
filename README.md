@@ -8,7 +8,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 但 TechBridge 那裡寫久了其實碰到幾個問題，第一是留言不會通知，第二是那個共筆部落格沒有按照作者尋找文章的功能，第三是我現在資源有點分散，希望能集中管理。
 
-因為以上幾點理由，最後決定挑一些比較有質量的技術文章搬到這裡來，把這裡當作個人部落格來使用。
+因為以上幾點理由，最後決定挑一些比較有品質的技術文章搬到這裡來，把這裡當作個人部落格來使用。
 
 文章的部分不會放在 repo 而是會放在 Issues 裡面，好處是方便留言跟分類，別人要引用的時候也會自己就有通知，缺點是比較難索引一點，所以還是會在這個介紹底下有個一個目錄方便尋找。
 
@@ -37,6 +37,9 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ## 依時間排序
 
+`2023-07-28` [GoogleCTF + zer0ptsCTF + ImaginaryCTF 2023 筆記](https://github.com/aszx87410/blog/issues/140)  
+`2023-07-28` [CTF 中的 EJS 漏洞筆記](https://github.com/aszx87410/blog/issues/139)  
+`2023-07-28` [利用 chatGPT 翻新部落格](https://github.com/aszx87410/blog/issues/138)  
 `2023-06-13` [正規表達式沒寫好會怎樣？淺談 ReDoS：利用 regexp 的攻擊](https://github.com/aszx87410/blog/issues/137)  
 `2023-04-21` [零日文基本情報技術者與情報セキュリティマネジメント試験準備心得](https://github.com/aszx87410/blog/issues/136)  
 `2023-03-27` [LINE CTF 2023 筆記](https://github.com/aszx87410/blog/issues/135)  
@@ -179,6 +182,8 @@ Here is a git repository for the backup and index of my blog, you can find the b
 ## 依分類排序
 
 ## Security
+`2023-07-28` [GoogleCTF + zer0ptsCTF + ImaginaryCTF 2023 筆記](https://github.com/aszx87410/blog/issues/140)  
+`2023-07-28` [CTF 中的 EJS 漏洞筆記](https://github.com/aszx87410/blog/issues/139)  
 `2023-06-13` [正規表達式沒寫好會怎樣？淺談 ReDoS：利用 regexp 的攻擊](https://github.com/aszx87410/blog/issues/137)  
 `2023-03-27` [LINE CTF 2023 筆記](https://github.com/aszx87410/blog/issues/135)  
 `2023-03-27` [DiceCTF 2023 筆記](https://github.com/aszx87410/blog/issues/134)  
@@ -302,7 +307,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 `2016-09-24`  [淺談二分搜尋法](https://github.com/aszx87410/blog/issues/11)  
 
 ### 其他
-
+`2023-07-28` [利用 chatGPT 翻新部落格](https://github.com/aszx87410/blog/issues/138)  
 `2023-04-21` [零日文基本情報技術者與情報セキュリティマネジメント試験準備心得](https://github.com/aszx87410/blog/issues/136)  
 `2021-08-22`  [除了 hexo，也可以考慮用 eleventy 來寫技術部落格](https://github.com/aszx87410/blog/issues/85)  
 `2020-05-16`  [簡易 Regular Expression 入門指南](https://github.com/aszx87410/blog/issues/58)  
