@@ -8,6 +8,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2023-07-31` [記錄你的飛行軌跡：myflightradar24](https://hulitw.medium.com/myflightradar24-flight-tracker-120ec0c162e6)  
 `2023-07-27` [2023 年 7 月南韓十日遊心得：首爾篇](https://hulitw.medium.com/2023-july-korea-trip-seoul-92ba2d0608ff)  
 `2023-07-27` [2023 年 7 月南韓十日遊心得：釜山篇](https://hulitw.medium.com/2023-july-korea-trip-busan-a475e484e1fc)  
 `2023-07-01` [2023 年 6 月澳門三天兩夜小旅遊心得](https://hulitw.medium.com/2023-06-macau-travel-venetian-21687588b87d)  
@@ -254,6 +255,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 旅遊相關
 
+`2023-07-31` [記錄你的飛行軌跡：myflightradar24](https://hulitw.medium.com/myflightradar24-flight-tracker-120ec0c162e6)  
 `2023-07-27` [2023 年 7 月南韓十日遊心得：首爾篇](https://hulitw.medium.com/2023-july-korea-trip-seoul-92ba2d0608ff)  
 `2023-07-27` [2023 年 7 月南韓十日遊心得：釜山篇](https://hulitw.medium.com/2023-july-korea-trip-busan-a475e484e1fc)  
 `2023-07-01` [2023 年 6 月澳門三天兩夜小旅遊心得](https://hulitw.medium.com/2023-06-macau-travel-venetian-21687588b87d)  
