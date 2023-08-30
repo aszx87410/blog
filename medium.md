@@ -8,6 +8,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2023-08-30` [讓前端成為選擇](https://hulitw.medium.com/frontend-choice-2f9f76a1614e)  
 `2023-07-31` [記錄你的飛行軌跡：myflightradar24](https://hulitw.medium.com/myflightradar24-flight-tracker-120ec0c162e6)  
 `2023-07-27` [2023 年 7 月南韓十日遊心得：首爾篇](https://hulitw.medium.com/2023-july-korea-trip-seoul-92ba2d0608ff)  
 `2023-07-27` [2023 年 7 月南韓十日遊心得：釜山篇](https://hulitw.medium.com/2023-july-korea-trip-busan-a475e484e1fc)  
@@ -161,6 +162,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 職涯相關
 
+`2023-08-30` [讓前端成為選擇](https://hulitw.medium.com/frontend-choice-2f9f76a1614e)  
 `2023-05-12` [在加密貨幣世界工作 0.75 年後的感想](https://hulitw.medium.com/after-working-at-web3-industry-for-8-months-60954d84ff0e)  
 `2022-11-08` [近況更新：轉職資安的一年後](https://hulitw.medium.com/2022-updates-e2a3ae1c9a2e)  
 `2022-01-22` [從「如果我離職…」的角度思考工作](https://hulitw.medium.com/think-as-if-i-quit-f384091ca2f6)  
