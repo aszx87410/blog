@@ -37,6 +37,8 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ## 依時間排序
 
+`2023-09-02` [corCTF 2023 & Sekai CTF 2023 筆記](https://github.com/aszx87410/blog/issues/142)  
+`2023-09-02` [Intigriti 0823 挑戰 - Math jail 解法以及心得](https://github.com/aszx87410/blog/issues/141)  
 `2023-07-28` [GoogleCTF + zer0ptsCTF + ImaginaryCTF 2023 筆記](https://github.com/aszx87410/blog/issues/140)  
 `2023-07-28` [CTF 中的 EJS 漏洞筆記](https://github.com/aszx87410/blog/issues/139)  
 `2023-07-28` [利用 chatGPT 翻新部落格](https://github.com/aszx87410/blog/issues/138)  
@@ -182,6 +184,8 @@ Here is a git repository for the backup and index of my blog, you can find the b
 ## 依分類排序
 
 ## Security
+`2023-09-02` [corCTF 2023 & Sekai CTF 2023 筆記](https://github.com/aszx87410/blog/issues/142)  
+`2023-09-02` [Intigriti 0823 挑戰 - Math jail 解法以及心得](https://github.com/aszx87410/blog/issues/141)  
 `2023-07-28` [GoogleCTF + zer0ptsCTF + ImaginaryCTF 2023 筆記](https://github.com/aszx87410/blog/issues/140)  
 `2023-07-28` [CTF 中的 EJS 漏洞筆記](https://github.com/aszx87410/blog/issues/139)  
 `2023-06-13` [正規表達式沒寫好會怎樣？淺談 ReDoS：利用 regexp 的攻擊](https://github.com/aszx87410/blog/issues/137)  
