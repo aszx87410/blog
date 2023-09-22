@@ -8,6 +8,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ## 依時間排序
 
+`2023-09-22` [CoolWallet Pro 冷錢包開箱文](https://hulitw.medium.com/coolwallet-pro-b381f545878)  
 `2023-08-30` [讓前端成為選擇](https://hulitw.medium.com/frontend-choice-2f9f76a1614e)  
 `2023-07-31` [記錄你的飛行軌跡：myflightradar24](https://hulitw.medium.com/myflightradar24-flight-tracker-120ec0c162e6)  
 `2023-07-27` [2023 年 7 月南韓十日遊心得：首爾篇](https://hulitw.medium.com/2023-july-korea-trip-seoul-92ba2d0608ff)  
@@ -274,6 +275,7 @@ Medium 內建的索引跟分類功能實在是太爛了，只好自己維護一�
 
 ### 其他
 
+`2023-09-22` [CoolWallet Pro 冷錢包開箱文](https://hulitw.medium.com/coolwallet-pro-b381f545878)  
 `2023-05-16` [駭客的線上遊戲 CTF 遊玩兩年心得](https://hulitw.medium.com/after-playing-hacker-game-ctf-for-two-years-12dbfb6a3adb)  
 `2022-12-18` [你過得太安逸了](https://hulitw.medium.com/you-live-too-comfortably-de6b51fa9875)  
 `2022-02-21` [我與睡眠呼吸中止症——它跟你想的可能不同](https://hulitw.medium.com/sleep-apnea-and-i-176d197dbb4a)  
