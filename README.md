@@ -37,6 +37,8 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ## 依時間排序
 
+`2023-09-26` [HITCON CTF 2023 與 SECCON CTF 2023 筆記](https://github.com/aszx87410/blog/issues/144)  
+`2023-09-26` [原來 img src 也支援 mp4（Safari 限定）](https://github.com/aszx87410/blog/issues/143)  
 `2023-09-02` [corCTF 2023 & Sekai CTF 2023 筆記](https://github.com/aszx87410/blog/issues/142)  
 `2023-09-02` [Intigriti 0823 挑戰 - Math jail 解法以及心得](https://github.com/aszx87410/blog/issues/141)  
 `2023-07-28` [GoogleCTF + zer0ptsCTF + ImaginaryCTF 2023 筆記](https://github.com/aszx87410/blog/issues/140)  
@@ -184,6 +186,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 ## 依分類排序
 
 ## Security
+`2023-09-26` [HITCON CTF 2023 與 SECCON CTF 2023 筆記](https://github.com/aszx87410/blog/issues/144)  
 `2023-09-02` [corCTF 2023 & Sekai CTF 2023 筆記](https://github.com/aszx87410/blog/issues/142)  
 `2023-09-02` [Intigriti 0823 挑戰 - Math jail 解法以及心得](https://github.com/aszx87410/blog/issues/141)  
 `2023-07-28` [GoogleCTF + zer0ptsCTF + ImaginaryCTF 2023 筆記](https://github.com/aszx87410/blog/issues/140)  
@@ -260,7 +263,8 @@ Here is a git repository for the backup and index of my blog, you can find the b
 `2019-06-14`  [搶救茶壺大作戰：418 I am a teapot ](https://github.com/aszx87410/blog/issues/43)  
 
 ### 前端相關
-`2022-07-08` [淺談 Atomic CSS 的發展背景與 Tailwind CSS](https://github.com/aszx87410/blog/issues/120)  
+`2023-09-26`  [原來 img src 也支援 mp4（Safari 限定）](https://github.com/aszx87410/blog/issues/143)  
+`2022-07-08`  [淺談 Atomic CSS 的發展背景與 Tailwind CSS](https://github.com/aszx87410/blog/issues/120)  
 `2022-02-02`  [透過 Chrome Origin Trials 搶先試用新功能](https://github.com/aszx87410/blog/issues/106)  
 `2021-06-12`  [用 Paged.js 做出適合印成 PDF 的 HTML 網頁](https://github.com/aszx87410/blog/issues/80)  
 `2021-04-17`  [寫一個簡單堪用的 ESLint plugin](https://github.com/aszx87410/blog/issues/76)  
