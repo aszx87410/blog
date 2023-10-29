@@ -14,6 +14,10 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 有任何跟文章相關的問題都歡迎直接在 Issue 上面提出，想 Follow 的話也可以點個星星按個關注，感謝。
 
+### 2023-10-29 更新
+
+基本上現在不太用 Medium 了，而是自己架了一個：https://life.huli.tw
+
 ### 2022-05-22 更新
 
 有時候可能會過一陣子才把部落格文章同步到這邊來，底下列表的時間會以同步來的時間為準，而非原始文章發佈時間
