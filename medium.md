@@ -16,6 +16,7 @@ Medium 上的文章還是會繼續從部落格同步過來，但因為 SEO 的�
 
 ## 依時間排序
 
+`2023-11-15` [2023 日本工作新手任務破關心得：簽證、住址、門號與銀行](https://hulitw.medium.com/japan-newbie-2023-ae0a628d42d4)  
 `2023-10-29` [高中學歷大學沒畢業申請日本工作簽證心得](https://hulitw.medium.com/get-japan-working-visa-without-college-degree-e9635a6c650c)  
 `2023-10-15` [再會了，Medium 搬家到 Hexo 心得](https://hulitw.medium.com/goodbye-medium-9a6f7488ed02)  
 `2023-09-22` [CoolWallet Pro 冷錢包開箱文](https://hulitw.medium.com/coolwallet-pro-b381f545878)  
