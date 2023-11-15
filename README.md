@@ -41,6 +41,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 
 ## 依時間排序
 
+`2023-11-15` [簡單分析 CVE-2023-46729：Sentry Next.js SDK 的 URL rewrite 漏洞](https://github.com/aszx87410/blog/issues/145)  
 `2023-09-26` [HITCON CTF 2023 與 SECCON CTF 2023 筆記](https://github.com/aszx87410/blog/issues/144)  
 `2023-09-26` [原來 img src 也支援 mp4（Safari 限定）](https://github.com/aszx87410/blog/issues/143)  
 `2023-09-02` [corCTF 2023 & Sekai CTF 2023 筆記](https://github.com/aszx87410/blog/issues/142)  
@@ -190,6 +191,7 @@ Here is a git repository for the backup and index of my blog, you can find the b
 ## 依分類排序
 
 ## Security
+`2023-11-15` [簡單分析 CVE-2023-46729：Sentry Next.js SDK 的 URL rewrite 漏洞](https://github.com/aszx87410/blog/issues/145)  
 `2023-09-26` [HITCON CTF 2023 與 SECCON CTF 2023 筆記](https://github.com/aszx87410/blog/issues/144)  
 `2023-09-02` [corCTF 2023 & Sekai CTF 2023 筆記](https://github.com/aszx87410/blog/issues/142)  
 `2023-09-02` [Intigriti 0823 挑戰 - Math jail 解法以及心得](https://github.com/aszx87410/blog/issues/141)  
